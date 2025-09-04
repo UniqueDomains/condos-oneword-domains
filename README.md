@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CONDOS one-word domains still available to buy.
 
-This dataset contains 4,616 .CONDOS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,658 .CONDOS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CONDOS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=condos-oneword-domains&utm_content=description.top) (4,302) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,16 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/condos-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.csv"><b>⬇️ CSV (4.62K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.json"><b>⬇️ JSON (4.62K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=condos-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.3K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.condos        | available | 70       | 38%    | 3      |           |         |         |
+| aaron.condos      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.condos  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.condos      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.condos  | available | 58       | 10%    | 9      |           |         |         |
@@ -30,6 +32,7 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 | abatic.condos     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.condos    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.condos   | available | 50       | 1%     | 8      |           |         |         |
+| abc.condos        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.condos  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.condos  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.condos | available | 56       | 1%     | 10     |           |         |         |
@@ -43,19 +46,16 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 | abhorrent.condos  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.condos    | available | 106      | 5%     | 7      |           |         |         |
 | abient.condos     | available | 54       | 1%     | 6      |           |         |         |
+| ability.condos    | available | 92       | 18%    | 7      |           |         |         |
 | abit.condos       | available | 66       | 16%    | 5      |           |         |         |
 | abject.condos     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.condos     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.condos  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.condos     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.condos  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.condos    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.condos   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/condos-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.csv"><b>⬇️ CSV (4.62K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.json"><b>⬇️ JSON (4.62K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/condos-oneword-domains/blob/main/condos.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=condos-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.3K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
