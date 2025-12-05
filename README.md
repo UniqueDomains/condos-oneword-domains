@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 | aaron.condos      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.condos  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.condos      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.condos  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.condos  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.condos    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.condos     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.condos   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 | abbatial.condos   | available | 50       | 1%     | 8      |           |         |         |
 | abc.condos        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.condos  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.condos  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.condos  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.condos | available | 56       | 1%     | 10     |           |         |         |
 | abducens.condos   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.condos   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 | aberdonian.condos | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.condos   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.condos    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.condos  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.condos  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.condos    | available | 106      | 5%     | 7      |           |         |         |
 | abient.condos     | available | 54       | 1%     | 6      |           |         |         |
 | ability.condos    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
