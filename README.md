@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.CONDOS one word domai
 | abatic.condos     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.condos    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.condos   | available | 50       | 1%     | 8      |           |         |         |
-| abc.condos        | available | 102      | 41%    | 3      |           |         |         |
+| abc.condos        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.condos  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.condos  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.condos | available | 56       | 1%     | 10     |           |         |         |
