@@ -1,22 +1,22 @@
-# Available .CONDOS One-Word Domains (9,830)
+# Available .CONDOS One-Word Domains (9,829)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C829%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C830%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C829%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .condos one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .condos one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,829-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,830 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,829 rows · **Live catalog:** 9,830 domains
+**Public extract:** 9,829 rows · **Live catalog:** 9,829 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/condos`  
 **Best for:** founders, investors, studios
 
@@ -64,21 +64,21 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.condos    | available | $71.99    | $75.99        | 90             | 53     | 5      | name.com                                    |
+| zero.condos     | available | $71.99    | $75.99        | 112            | 54     | 4      | name.com                                    |
 | all.condos      | resell    | —         | —             | 88             | 48     | 3      | 1API GmbH                                   |
 | easy.condos     | premium   | $1,000    | $1,000        | 128            | 68     | 4      | name.com                                    |
-| fast.condos     | available | $71.99    | $75.99        | 82             | 53     | 4      | name.com                                    |
+| alpha.condos    | available | $71.99    | $75.99        | 90             | 54     | 5      | name.com                                    |
 | awesome.condos  | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | free.condos     | premium   | $250      | $250          | 88             | 59     | 4      | name.com                                    |
-| zero.condos     | available | $71.99    | $75.99        | 112            | 52     | 4      | name.com                                    |
+| fast.condos     | available | $71.99    | $75.99        | 82             | 53     | 4      | name.com                                    |
 | manage.condos   | resell    | —         | —             | 92             | 38     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | ace.condos      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                                    |
 | true.condos     | available | $71.99    | $75.99        | 86             | 52     | 4      | name.com                                    |
 | snow.condos     | resell    | —         | —             | 66             | 35     | 4      | GoDaddy.com, LLC                            |
-| data.condos     | premium   | $128.70   | $128.70       | 70             | 56     | 4      | namecheap                                   |
-| clear.condos    | available | $71.99    | $75.99        | 90             | 50     | 5      | name.com                                    |
+| live.condos     | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com                                    |
+| clear.condos    | available | $71.99    | $75.99        | 90             | 49     | 5      | name.com                                    |
 | alaska.condos   | resell    | —         | —             | 76             | 34     | 6      | GoDaddy.com, LLC                            |
-| live.condos     | premium   | $123.75   | $123.75       | 108            | 55     | 4      | name.com                                    |
+| data.condos     | premium   | $128.70   | $128.70       | 70             | 56     | 4      | namecheap                                   |
 | air.condos      | available | $72.98    | —             | 84             | 49     | 3      | namecheap                                   |
 | promo.condos    | resell    | —         | —             | 94             | 30     | 5      | GoDaddy.com, LLC                            |
 | business.condos | premium   | $1,040    | $1,040        | 100            | 53     | 8      | namecheap                                   |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,829-row public sample | 9,830 live domains                               |
+| 9,829-row public sample | 9,829 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
