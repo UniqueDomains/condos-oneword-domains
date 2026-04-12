@@ -64,10 +64,10 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| zero.condos     | available | $71.99    | $75.99        | 112            | 54     | 4      | name.com                                    |
+| alpha.condos    | available | $71.99    | $75.99        | 90             | 54     | 5      | name.com                                    |
 | all.condos      | resell    | —         | —             | 88             | 48     | 3      | 1API GmbH                                   |
 | easy.condos     | premium   | $1,000    | $1,000        | 128            | 68     | 4      | name.com                                    |
-| alpha.condos    | available | $71.99    | $75.99        | 90             | 54     | 5      | name.com                                    |
+| zero.condos     | available | $71.99    | $75.99        | 112            | 53     | 4      | name.com                                    |
 | awesome.condos  | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | free.condos     | premium   | $250      | $250          | 88             | 59     | 4      | name.com                                    |
 | fast.condos     | available | $71.99    | $75.99        | 82             | 53     | 4      | name.com                                    |
