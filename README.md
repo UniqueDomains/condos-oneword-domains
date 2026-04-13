@@ -69,11 +69,11 @@ print(df.head())
 | easy.condos     | premium   | $1,000    | $1,000        | 128            | 68     | 4      | name.com                                    |
 | alpha.condos    | available | $71.99    | $75.99        | 90             | 53     | 5      | name.com                                    |
 | awesome.condos  | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
-| free.condos     | premium   | $250      | $250          | 88             | 59     | 4      | name.com                                    |
-| fast.condos     | available | $71.99    | $75.99        | 82             | 53     | 4      | name.com                                    |
-| manage.condos   | resell    | —         | —             | 92             | 38     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | ace.condos      | premium   | $82.50    | $82.50        | 88             | 57     | 3      | name.com                                    |
 | true.condos     | available | $71.99    | $75.99        | 86             | 52     | 4      | name.com                                    |
+| manage.condos   | resell    | —         | —             | 92             | 38     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| free.condos     | premium   | $250      | $250          | 88             | 57     | 4      | name.com                                    |
+| fast.condos     | available | $71.99    | $75.99        | 82             | 52     | 4      | name.com                                    |
 | snow.condos     | resell    | —         | —             | 66             | 35     | 4      | GoDaddy.com, LLC                            |
 | live.condos     | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com                                    |
 | clear.condos    | available | $71.99    | $75.99        | 90             | 49     | 5      | name.com                                    |
