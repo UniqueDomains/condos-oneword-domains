@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .condos one-word domains from Uniq
 
 **Public extract:** 9,829 rows · **Live catalog:** 9,829 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/condos`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | fast.condos     | available | $71.99    | $75.99        | 82             | 52     | 4      | name.com                                    |
 | snow.condos     | resell    | —         | —             | 66             | 35     | 4      | GoDaddy.com, LLC                            |
 | live.condos     | premium   | $123.75   | $123.75       | 108            | 56     | 4      | name.com                                    |
-| clear.condos    | available | $71.99    | $75.99        | 90             | 49     | 5      | name.com                                    |
+| simple.condos   | available | $71.99    | $75.99        | 128            | 49     | 6      | name.com                                    |
 | alaska.condos   | resell    | —         | —             | 76             | 34     | 6      | GoDaddy.com, LLC                            |
 | data.condos     | premium   | $128.70   | $128.70       | 70             | 56     | 4      | namecheap                                   |
-| air.condos      | available | $72.98    | —             | 84             | 49     | 3      | namecheap                                   |
+| clear.condos    | available | $71.99    | $75.99        | 90             | 49     | 5      | name.com                                    |
 | promo.condos    | resell    | —         | —             | 94             | 30     | 5      | GoDaddy.com, LLC                            |
 | business.condos | premium   | $1,040    | $1,040        | 100            | 53     | 8      | namecheap                                   |
-| simple.condos   | available | $71.99    | $75.99        | 128            | 48     | 6      | name.com                                    |
+| air.condos      | available | $72.98    | —             | 84             | 49     | 3      | namecheap                                   |
 | queen.condos    | resell    | —         | —             | 92             | 30     | 5      | NameCheap, Inc.                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
