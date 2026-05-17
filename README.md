@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .condos one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,809 domains · **Median ask:** $75.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/condos`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | skills.condos       | available | $71.99    | —             | 58             | 47     | 6      | name.com  |
 | tickets.condos      | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo  |
-| whynot.condos       | available | $71.99    | —             | 74             | 39     | 7      | name.com  |
+| whynot.condos       | available | $71.99    | —             | 74             | 44     | 7      | name.com  |
 | solutions.condos    | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
 | tokens.condos       | available | $58.99    | $58.99        | 51             | 36     | 6      | namesilo  |
 | photos.condos       | premium   | $123.75   | —             | 54             | 28     | 6      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
