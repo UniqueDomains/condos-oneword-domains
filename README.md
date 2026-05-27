@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .condos one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,809 domains · **Median ask:** $75.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/condos`  
 **Best for:** founders, investors, studios
 
@@ -75,13 +75,13 @@ print(df.head())
 | teams.condos        | available | $71.99    | —             | 62             | 32     | 5      | name.com  |
 | flights.condos      | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo  |
 | trends.condos       | available | $71.99    | —             | 60             | 32     | 6      | name.com  |
-| reservation.condos  | premium   | $250      | —             | 65             | 19     | 11     | name.com  |
+| highend.condos      | premium   | $82.50    | —             | 72             | 19     | 8      | name.com  |
 | heroes.condos       | available | $71.99    | —             | 68             | 29     | 6      | name.com  |
-| vacations.condos    | premium   | $854      | $854          | 56             | 19     | 9      | namesilo  |
+| reservation.condos  | premium   | $250      | —             | 65             | 19     | 11     | name.com  |
 | cams.condos         | available | $58.99    | $58.99        | 52             | 29     | 4      | namesilo  |
-| highend.condos      | premium   | $82.50    | —             | 72             | 17     | 8      | name.com  |
+| vacations.condos    | premium   | $854      | $854          | 56             | 19     | 9      | namesilo  |
 | dogs.condos         | available | $71.99    | —             | 76             | 28     | 4      | name.com  |
-| LongBeach.condos    | premium   | $92.40    | $92.40        | 62             | 11     | 10     | namecheap |
+| LongBeach.condos    | premium   | $92.40    | $92.40        | 62             | 12     | 10     | namecheap |
 | commonground.condos | available | $71.99    | —             | 74             | 28     | 13     | name.com  |
 | gems.condos         | available | $58.99    | $58.99        | 70             | 28     | 4      | namesilo  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
