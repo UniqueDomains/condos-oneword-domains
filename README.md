@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .condos one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,809 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,809 domains · **Median ask:** $75.56 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,809 domains · **Median ask:** $72.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/condos`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/condos`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CONDOS one-word domai
 
 ### Files
 
-- `condos.csv` — public CSV extract (1,000 rows)
-- `condos.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `condos.csv`, public CSV extract (1,000 rows)
+- `condos.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| skills.condos       | available | $71.99    | —             | 58             | 47     | 6      | name.com  |
-| tickets.condos      | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo  |
-| whynot.condos       | available | $71.99    | —             | 74             | 44     | 7      | name.com  |
-| solutions.condos    | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
-| tokens.condos       | available | $58.99    | $58.99        | 51             | 36     | 6      | namesilo  |
-| photos.condos       | premium   | $123.75   | —             | 54             | 28     | 6      | name.com  |
-| Cats.condos         | available | $72.98    | —             | 59             | 33     | 4      | namecheap |
-| loans.condos        | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo  |
-| teams.condos        | available | $71.99    | —             | 62             | 32     | 5      | name.com  |
-| flights.condos      | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo  |
-| trends.condos       | available | $71.99    | —             | 60             | 32     | 6      | name.com  |
-| highend.condos      | premium   | $82.50    | —             | 72             | 19     | 8      | name.com  |
-| heroes.condos       | available | $71.99    | —             | 68             | 29     | 6      | name.com  |
-| reservation.condos  | premium   | $250      | —             | 65             | 19     | 11     | name.com  |
-| cams.condos         | available | $58.99    | $58.99        | 52             | 29     | 4      | namesilo  |
-| vacations.condos    | premium   | $854      | $854          | 56             | 19     | 9      | namesilo  |
-| dogs.condos         | available | $71.99    | —             | 76             | 28     | 4      | name.com  |
-| LongBeach.condos    | premium   | $92.40    | $92.40        | 62             | 12     | 10     | namecheap |
-| commonground.condos | available | $71.99    | —             | 74             | 28     | 13     | name.com  |
-| gems.condos         | available | $58.99    | $58.99        | 70             | 28     | 4      | namesilo  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| christmas.condos | premium   | $854      | $854          | high           | low    | 9      | namesilo         |
+| bag.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| have.condos      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
+| boo.condos       | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
+| but.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| alaska.condos    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| eat.condos       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| CNN.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| fan.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| cry.condos       | available | $71.99    | —             | high           | low    | 3      | name.com         |
+| fee.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| dna.condos       | available | $58.99    | $58.99        | high           | medium | 3      | namesilo         |
+| fix.condos       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| feb.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| gas.condos       | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
+| lag.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| His.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| lan.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| pot.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| mat.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .condos domains. That makes the extension itself the main signal: every name is explicitly tied to condo use, so the word before the dot has to carry the branding quality. Short, concrete words such as call.condos, action.condos, play.condos, bag.condos, and zest.condos feel very different in marketability, even if pricing looks similar. For founders, the key question is whether the word sounds credible and memorable for a condo-related brand. For investors, the key question is whether the term is commercially intuitive enough to support resale interest relative to ask and renewal economics.
+This list gathers one-word .condos domain names such as watches.condos, gearup.condos, and forces.condos. Each name pairs a single, memorable word with the .condos extension, making them well suited for real estate, home services, and lifestyle-focused brands. With a median ask near $72, most of these domains sit within reach of a small business budget, and renewal costs should be checked before purchase. Updated daily, this selection makes it straightforward to shortlist a distinctive name in a niche where availability is often limited.
 
-- All names in this selection use the .condos extension
-- Median ask across the set is 75.56
-- Favor words with clear condo or property relevance
-- Avoid names that feel random, awkward, or hard to justify
+- 12,809 one-word .condos domain names in this selection
+- Median asking price near $72
+- Names built for real estate, lifestyle, and home brands
+- Updated daily — compare pricing and renewal before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
