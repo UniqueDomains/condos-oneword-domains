@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .condos one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,947 domains · **Median ask:** $66.41 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/condos`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| abo.condos    | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
-| have.condos   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
-| boo.condos    | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
-| ape.condos    | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
-| alaska.condos | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| eat.condos    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| aug.condos    | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
-| fan.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| azo.condos    | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
-| fee.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| bag.condos    | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
-| fix.condos    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
-| but.condos    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
-| gas.condos    | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
-| CNN.condos    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
-| His.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| cry.condos    | available | $71.99    | —             | high           | low    | 3      | name.com         |
-| pot.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| dna.condos    | available | $58.99    | $58.99        | high           | medium | 3      | namesilo         |
-| use.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| christmas.condos | premium   | $854      | $854          | high           | low    | 9      | namesilo         |
+| come.condos      | available | $58.99    | $58.99        | high           | low    | 4      | namesilo         |
+| action.condos    | available | $58.99    | $58.99        | high           | medium | 6      | namesilo         |
+| abo.condos       | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
+| have.condos      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
+| boo.condos       | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
+| ape.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| alaska.condos    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| eat.condos       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| aug.condos       | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
+| fan.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| azo.condos       | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
+| fee.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| bag.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| fix.condos       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| but.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| gas.condos       | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
+| CNN.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| His.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| cry.condos       | available | $71.99    | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
