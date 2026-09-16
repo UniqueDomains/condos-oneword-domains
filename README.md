@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .condos one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,022 domains · **Median ask:** $65.34 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/condos`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| christmas.condos | premium   | $854      | $854          | high           | low    | 9      | namesilo         |
-| come.condos      | available | $58.99    | $58.99        | high           | low    | 4      | namesilo         |
-| action.condos    | available | $58.99    | $58.99        | high           | medium | 6      | namesilo         |
-| abo.condos       | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
-| have.condos      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
-| boo.condos       | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
-| ape.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
-| alaska.condos    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| eat.condos       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| aug.condos       | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
-| fan.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| azo.condos       | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
-| fee.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| bag.condos       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
-| fix.condos       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
-| but.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
-| gas.condos       | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
-| CNN.condos       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
-| His.condos       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| cry.condos       | available | $71.99    | —             | high           | low    | 3      | name.com         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| abo.condos    | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
+| have.condos   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
+| boo.condos    | premium   | $82.50    | —             | high           | low    | 3      | name.com         |
+| ape.condos    | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| alaska.condos | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| eat.condos    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| aug.condos    | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
+| fan.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| azo.condos    | available | $58.99    | $58.99        | low            | low    | 3      | namesilo         |
+| fee.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| bag.condos    | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo         |
+| fix.condos    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| but.condos    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| gas.condos    | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
+| CNN.condos    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo         |
+| His.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| cry.condos    | available | $71.99    | —             | high           | low    | 3      | name.com         |
+| pot.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| dna.condos    | available | $58.99    | $58.99        | high           | medium | 3      | namesilo         |
+| use.condos    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONDOS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
