@@ -30,14 +30,14 @@ a583b9e6-80fe-4dd2-970b-e543c4171edc,complicated.condos,available,58.99,58.99,me
 eac13522-a628-4458-858d-ab295ab98e17,ruled.condos,available,71.99,,high,low,5,name.com,,,
 cde137cd-ea3f-4e5f-ae7d-67a1e3c8e869,simpler.condos,available,58.99,58.99,medium,low,7,namesilo,,,
 01b4cee4-58d7-4f3e-bb43-6904f0dde3db,rid.condos,available,58.99,58.99,high,low,3,namesilo,,,
-e4220970-506a-4b85-a326-b64efc6020ca,cream.condos,available,58.99,58.99,medium,low,5,namesilo,,,15/09/2026 10:29
+e4220970-506a-4b85-a326-b64efc6020ca,cream.condos,available,58.99,58.99,medium,low,5,namesilo,,,19/09/2026 04:58
 098f48bf-e9a5-4481-8f12-6f25b5426c11,walk.condos,available,58.99,58.99,high,low,4,namesilo,,,
 b78d7cc7-b45f-4a90-87cc-203ed366ffd8,fauna.condos,available,58.99,58.99,low,low,5,namesilo,,,
 12e5b779-3206-430d-b253-51f2bfb3f21e,back.condos,available,58.99,58.99,high,low,4,namesilo,,,
 a3cf23fb-896c-41c0-a85f-bce59e7bce6c,ameboid.condos,available,58.99,58.99,low,low,7,namesilo,,,
 b76f7689-dcbe-4f68-8f1e-dcbc074ca1c4,asocial.condos,available,58.99,58.99,low,low,7,namesilo,,,07/08/2026 04:36
 807606cc-863f-438b-901d-8376ec32ca5d,ape.condos,available,58.99,58.99,medium,low,3,namesilo,,,
-43d5e56f-f1d3-4865-b6d5-477ab1b7856f,effort.condos,available,58.99,58.99,medium,low,6,namesilo,,,15/09/2026 00:59
+43d5e56f-f1d3-4865-b6d5-477ab1b7856f,effort.condos,available,58.99,58.99,medium,low,6,namesilo,,,19/09/2026 09:55
 34a94424-a7b5-4a9b-ae66-86ea18e55c86,exactly.condos,available,58.99,58.99,high,low,7,namesilo,,,
 950d5199-da2e-481c-84cb-b3de418c6d1b,letterbox.condos,available,58.99,58.99,medium,low,10,namesilo,,,
 93afb0c9-e175-43f4-bd5a-faf92557fcb4,dreadful.condos,available,58.99,58.99,high,low,8,namesilo,,,
@@ -107,7 +107,7 @@ b688b9a3-04c2-4474-93a6-164bd6189ec3,newspaper.condos,available,58.99,58.99,high
 cb244b37-27a3-41a0-aa99-c557c6bdac57,heavyhearted.condos,available,58.99,58.99,medium,low,13,namesilo,,,
 cfb58340-3adf-4548-b32e-3d87f8d399ba,giveway.condos,available,58.99,58.99,medium,low,8,namesilo,,,
 288cbc3f-635b-4c5a-8dc3-e6eadbaae0ec,pussy.condos,available,58.99,58.99,medium,low,5,namesilo,,,
-567fa805-fa13-4e7c-bd66-52adda960c1e,MasterofScience.condos,available,58.99,58.99,medium,low,17,namesilo,,,
+567fa805-fa13-4e7c-bd66-52adda960c1e,masterofscience.condos,available,58.99,58.99,medium,low,17,namesilo,,,
 33f4c2ac-c5f6-499a-bd86-75ef1adec3ac,allotted.condos,available,58.99,58.99,low,low,8,namesilo,,,
 81078841-896a-4cdd-8ce4-e1c2032a8f14,faded.condos,available,71.99,,medium,low,5,name.com,,,
 a9d253d8-ad83-4d39-8ed4-ca61e677ea9c,coffin.condos,available,58.99,58.99,medium,low,6,namesilo,,,
@@ -122,7 +122,7 @@ acc5d3ef-800d-433c-8315-77f019c17692,abovementioned.condos,available,58.99,58.99
 f025cccd-93bb-4a90-a1f3-e594271ef4f5,circle.condos,available,71.99,,medium,medium,6,name.com,,,
 f35d2afb-746b-40ef-a55d-e7f6424c7104,moved.condos,available,58.99,58.99,high,low,5,namesilo,,,
 195f4eb8-305e-4a4c-97d2-491fe15f00b3,setfree.condos,available,58.99,58.99,medium,low,8,namesilo,,,
-0d772f0b-7a4a-4c8c-aab0-00873f613b8f,Seals.condos,available,58.99,58.99,medium,low,5,namesilo,,,
+0d772f0b-7a4a-4c8c-aab0-00873f613b8f,seals.condos,available,58.99,58.99,medium,low,5,namesilo,,,
 e23ba09d-ff26-4474-968f-79ac867e26e2,false.condos,available,71.99,,medium,low,5,name.com,,,
 e559cba7-70f1-4b9e-80fb-87737a5dcaeb,detective.condos,available,58.99,58.99,high,low,9,namesilo,,,
 60397af1-155e-46f5-a7f2-7b9196592fe0,menu.condos,premium,128.7,128.7,high,low,4,namecheap,,,
@@ -131,11 +131,11 @@ cd35495a-6cd0-4f96-b929-df4b867cdd03,sincere.condos,available,71.99,75.99,high,l
 e30c78a5-b3c8-4fd0-8526-abf8dde72ea9,autogenous.condos,available,61.98,72.98,low,low,10,namecheap,,,07/08/2026 20:16
 69516822-bc95-481b-8130-f55ee976cbcf,releaseversion.condos,available,58.99,58.99,high,low,15,namesilo,,,
 c94d8f7a-8d95-4904-a943-8ce80431d66b,specification.condos,available,58.99,58.99,low,low,13,namesilo,,,
-663c6814-f92f-4c49-9354-6af12bc04b7b,Bflat.condos,available,58.99,58.99,medium,low,6,namesilo,,,
+663c6814-f92f-4c49-9354-6af12bc04b7b,bflat.condos,available,58.99,58.99,medium,low,6,namesilo,,,
 4c207da4-d3df-4132-967b-14410fc57338,closely.condos,available,58.99,58.99,medium,low,7,namesilo,,,
 e2073503-c59f-4be0-9c9c-4847f5b9aab9,concealed.condos,available,71.99,75.99,medium,low,9,name.com,,,
-b2d4094a-6e05-48b3-b26b-8df9cb5f2f76,Pentium.condos,available,58.99,58.99,high,low,7,namesilo,,,
-8c822827-c42a-4da2-a586-66777ed40789,Siri.condos,available,,,high,low,4,,,,
+b2d4094a-6e05-48b3-b26b-8df9cb5f2f76,pentium.condos,available,58.99,58.99,high,low,7,namesilo,,,
+8c822827-c42a-4da2-a586-66777ed40789,siri.condos,available,,,high,low,4,,,,
 bae6980a-640d-44b3-9e54-3e3beb6b75a0,believable.condos,available,58.99,58.99,low,low,10,namesilo,,,09/08/2026 13:01
 73b89395-9feb-4319-9126-a71fc1bb8108,twentysix.condos,available,71.99,75.99,high,low,10,name.com,,,
 475c6ba4-feaf-46eb-922c-b40532f2bb0c,improvise.condos,available,71.99,75.99,high,low,9,name.com,,,
@@ -143,16 +143,15 @@ bae6980a-640d-44b3-9e54-3e3beb6b75a0,believable.condos,available,58.99,58.99,low
 0ad617cd-b3e6-4be7-8258-6eab48f1aaa9,neck.condos,available,58.99,58.99,high,low,4,namesilo,,,
 eabe9066-6440-4ca5-939b-89d35a16f081,keepsomeonecompany.condos,available,58.99,58.99,high,low,20,namesilo,,,
 6ce76891-ac55-4432-848a-1e8eac4caa41,whom.condos,available,58.99,58.99,low,low,4,namesilo,,,
-8347440d-6ba6-406a-ae36-d14617cd3e64,Frenchrice.condos,available,71.99,,high,low,11,name.com,,,
+8347440d-6ba6-406a-ae36-d14617cd3e64,frenchrice.condos,available,71.99,,high,low,11,name.com,,,
 ce2d43ed-96c4-4c3a-91a2-205c514df62b,grownup.condos,available,58.99,58.99,low,low,7,namesilo,,,
 3abaea39-eadd-4a5a-97e4-d0a7ae57488f,terribly.condos,available,58.99,58.99,medium,low,8,namesilo,,,
 e0fd1ebf-3f09-470d-ad52-1f059b1fd1e3,dying.condos,available,71.99,75.99,high,low,5,name.com,,,
-84aa26de-b15d-49fa-a128-d114cc8e106f,pastrychef.condos,available,58.99,58.99,medium,low,11,namesilo,,,14/09/2026 04:03
+84aa26de-b15d-49fa-a128-d114cc8e106f,pastrychef.condos,available,61.98,72.98,medium,low,11,namecheap,,,19/09/2026 03:45
 bb5cd601-40d8-43fe-8b6e-dfb9ff0d125d,needing.condos,available,58.99,58.99,high,low,7,namesilo,,,
 b4d3d561-fa07-430e-a628-ccdd75f1818c,comeclose.condos,available,58.99,58.99,low,low,10,namesilo,,,06/08/2026 09:44
-541fa534-aac5-44da-bb26-f28b6bc41fad,FedEx.condos,available,58.99,58.99,high,low,5,namesilo,,,
+541fa534-aac5-44da-bb26-f28b6bc41fad,fedex.condos,available,58.99,58.99,high,low,5,namesilo,,,
 458cbece-cf49-4f25-a934-864c541e0439,anemic.condos,available,58.99,58.99,low,low,6,namesilo,,,
-34fb32ab-be9c-43c1-b4cf-5d3a3f331995,OldWorld.condos,available,58.99,58.99,low,low,9,namesilo,,,
 b375ffc0-5b8c-44ec-8578-7887565602d5,urge.condos,available,58.99,58.99,high,low,4,namesilo,,,
 ef7a4c22-8f00-48db-b7f4-4898f49793f6,eternal.condos,available,71.99,75.99,high,medium,7,name.com,,,
 4562d3bd-a9ec-4336-9751-668e8e7da01b,clock.condos,available,58.99,58.99,medium,low,5,namesilo,,,
@@ -170,7 +169,7 @@ dc645166-e79c-498f-8a81-99f251be55a0,lettertelegram.condos,available,58.99,58.99
 08a92a3c-a267-419f-97a9-09b6318208ee,havesecondthoughts.condos,available,58.99,58.99,medium,low,20,namesilo,,,
 d46b7545-2801-4ef8-a49f-41bbdf59a092,album.condos,available,58.99,58.99,high,low,5,namesilo,,,
 a754bdc7-bac4-4c45-9382-acb928b47eff,upto.condos,available,58.99,58.99,medium,low,5,namesilo,,,
-0f9f3263-9807-41cb-b927-cb68a5f80d1b,integrate.condos,available,58.99,58.99,high,low,9,namesilo,,,
+0f9f3263-9807-41cb-b927-cb68a5f80d1b,integrate.condos,available,58.99,58.99,medium,low,9,namesilo,,,20/09/2026 03:11
 4f9d80ff-14d1-45d6-b824-2bb1ae2428d9,dustyrose.condos,available,58.99,58.99,medium,low,10,namesilo,,,
 39f2f116-ab45-401f-8242-99622893431c,produce.condos,available,58.99,58.99,high,low,7,namesilo,,,
 f5daa499-f5d7-4233-b17f-9e0d7d617259,checkout.condos,available,71.99,,medium,low,9,name.com,,,
@@ -179,7 +178,7 @@ f5daa499-f5d7-4233-b17f-9e0d7d617259,checkout.condos,available,71.99,,medium,low
 aaf7119b-e9aa-4371-a0fd-ed2eddb5e5b8,pool.condos,premium,242,242,medium,low,4,namesilo,,,
 0c5efcce-6a5a-442d-92cb-c71b3c202142,counter.condos,available,71.99,,high,low,7,name.com,,,
 5d70a690-72ee-41d9-a800-7b307fb4ea62,azo.condos,available,58.99,58.99,low,low,3,namesilo,,,08/08/2026 02:17
-6d8fbdfa-7094-45c6-bc9d-e4e501aadfbc,advised.condos,available,58.99,58.99,low,low,7,namesilo,,,14/09/2026 02:01
+6d8fbdfa-7094-45c6-bc9d-e4e501aadfbc,advised.condos,available,58.99,58.99,low,low,7,namesilo,,,19/09/2026 08:43
 c5c47e68-9611-4b7e-8f6d-bcbd983ce48c,youknowit.condos,available,58.99,58.99,high,low,11,namesilo,,,
 e0216016-a005-4f4f-a1a5-42315c1d02a5,annotated.condos,available,58.99,58.99,medium,low,9,namesilo,,,
 deeb97fc-820f-44c1-bc91-5ae9a0bb07eb,fee.condos,premium,118.8,118.8,high,low,3,namesilo,,,
@@ -233,7 +232,7 @@ e30f1124-f743-4145-aec8-e0b5bc20932d,attained.condos,available,58.99,58.99,low,l
 2b48266f-02a4-41c6-a42c-7f931f1ae739,publicity.condos,available,58.99,58.99,high,low,9,namesilo,,,
 7dd950fb-75db-4a24-bd3b-f9e9e7873273,hassle.condos,available,71.99,,high,low,6,name.com,,,
 ed4353a5-1b9d-4693-9e41-16ae7880d774,walking.condos,available,58.99,58.99,high,low,7,namesilo,,,
-dfb21a43-70d4-4aa1-9ee6-cae7b9a61a9b,naming.condos,available,58.99,58.99,high,low,6,namesilo,,,
+dfb21a43-70d4-4aa1-9ee6-cae7b9a61a9b,naming.condos,available,58.99,58.99,medium,low,6,namesilo,,,19/09/2026 13:00
 f2536ac6-ae57-4162-97c1-046a5b604c28,truant.condos,available,58.99,58.99,low,low,6,namesilo,,,08/08/2026 01:41
 2aae0201-375c-46b6-9250-9b9e9a4082ad,chesty.condos,available,58.99,58.99,low,low,6,namesilo,,,06/08/2026 22:08
 021a66f4-2006-4fa5-b595-aff278061bb9,bareheaded.condos,available,58.99,58.99,low,low,10,namesilo,,,08/08/2026 18:49
@@ -254,7 +253,7 @@ fc74c56c-6414-45b6-b743-adadec0fb624,fallfor.condos,available,58.99,58.99,medium
 8519ea91-d482-487f-bacd-0b921ae101ae,understood.condos,available,58.99,58.99,high,low,10,namesilo,,,
 9de55a5b-837c-4355-a2f8-affe8844a8a4,wonder.condos,available,71.99,,high,medium,6,name.com,,,
 8a825d34-8ca9-4684-9fc5-74dafb9de2da,proper.condos,available,58.99,58.99,high,low,6,namesilo,,,
-b0ab7c66-419f-40ba-94d4-457ef678e674,MMR.condos,available,58.99,58.99,high,low,3,namesilo,,,
+b0ab7c66-419f-40ba-94d4-457ef678e674,mmr.condos,available,58.99,58.99,high,low,3,namesilo,,,
 a3d3f003-8496-494d-991d-1227f8452b4a,fillin.condos,available,58.99,58.99,high,low,7,namesilo,,,
 a3b95912-4855-4282-9514-7bcb43ff5d4a,mouth.condos,available,58.99,58.99,medium,low,5,namesilo,,,08/09/2026 03:51
 53edcd5c-28bf-49c8-b59b-58ae798c426d,capable.condos,available,71.99,75.99,high,low,7,name.com,,,
@@ -268,7 +267,7 @@ f44ead2e-df23-48c8-8a21-3156ba88e591,abdominal.condos,available,71.99,75.99,high
 08093692-7c9a-4a4c-bdb2-9445c7e52eb2,therealityis.condos,available,58.99,58.99,low,low,14,namesilo,,,
 d94966fe-013a-4dee-9d89-545226561409,decay.condos,available,71.99,,high,low,5,name.com,,,
 a53a9936-09d6-49e1-b1b5-f9680cd15e4e,tons.condos,available,71.99,,high,low,4,name.com,,,
-7ab65b6f-763b-44de-babe-4a757630d6fd,Shrek.condos,available,,,high,low,5,,,,
+7ab65b6f-763b-44de-babe-4a757630d6fd,shrek.condos,available,,,high,low,5,,,,
 e65749f5-2827-4de7-921d-6020c03ecb60,bald.condos,available,58.99,58.99,low,low,4,namesilo,,,08/08/2026 09:16
 a1628390-0f2f-440e-969d-46e1e5db5d4c,whiz.condos,available,71.99,75.99,high,low,4,name.com,,,
 b87174fc-d94e-4d35-a305-d0bc3fc12cb4,acuminate.condos,available,58.99,58.99,low,low,9,namesilo,,,
@@ -314,7 +313,7 @@ d613b1cc-33b3-485c-bddd-cd1e12fe402c,phony.condos,available,58.99,58.99,low,low,
 a4965dff-1e47-4c2c-a6d4-cdb19e8506a3,unceasing.condos,available,58.99,58.99,low,low,9,namesilo,,,
 74fe7806-74f1-4343-915e-e75354adb2ba,marihuana.condos,available,58.99,58.99,medium,low,9,namesilo,,,
 41ac45d9-f3d3-4b51-af50-fecaed717011,howl.condos,available,58.99,58.99,high,low,4,namesilo,,,
-b67d82d2-730a-411a-a464-7559ae4f2eec,Philips.condos,available,,,high,low,7,,,,
+b67d82d2-730a-411a-a464-7559ae4f2eec,philips.condos,available,,,high,low,7,,,,
 d56581a3-fcf5-4b1e-9c8d-945e737a2290,flourishing.condos,available,71.99,,high,low,11,name.com,,,
 66c914b2-646e-43df-847b-fc496f3ecaea,expedition.condos,available,58.99,58.99,high,low,10,namesilo,,,
 0457ba17-eb59-45bd-b6ba-4058f847bb10,befuddled.condos,available,58.99,58.99,low,low,9,namesilo,,,07/08/2026 11:41
@@ -349,7 +348,7 @@ fea655a8-800b-47db-936e-1eb868affc30,little.condos,available,58.99,58.99,high,lo
 66acb701-b718-4d25-b838-decfcaefb8a1,peace.condos,available,58.99,58.99,high,low,5,namesilo,,,
 a99fd0fc-dcda-4ca8-bac2-24f2f0f23485,interpret.condos,available,58.99,58.99,high,low,9,namesilo,,,
 2f950e0e-6248-4cd3-8685-83bccf46670b,buster.condos,available,58.99,58.99,medium,low,6,namesilo,,,
-ad7f42ce-8b39-41b2-9d54-89defa6d94b1,spike.condos,available,58.99,58.99,medium,low,5,namesilo,,,12/09/2026 11:46
+ad7f42ce-8b39-41b2-9d54-89defa6d94b1,spike.condos,available,58.99,58.99,low,low,5,namesilo,,,19/09/2026 15:31
 67c8f000-ef0b-407a-863f-680fd0ae4f90,couple.condos,available,58.99,58.99,high,low,6,namesilo,,,
 0f399ced-eb8c-49ae-95cc-b61d38cc94e9,jerk.condos,available,58.99,58.99,high,low,4,namesilo,,,
 46837057-734f-4d2e-b339-5a56cd93cc6f,prickly.condos,available,58.99,58.99,low,low,7,namesilo,,,08/08/2026 17:34
@@ -359,7 +358,7 @@ adeaead2-849f-47a1-a16c-127799cf299c,whitesmoke.condos,available,58.99,58.99,low
 870a5b15-19fa-46f1-b6d6-69ab58045e70,themself.condos,available,58.99,58.99,low,low,8,namesilo,,,
 953341dd-df46-4cdf-a482-bbf7fe3bca66,afghani.condos,available,58.99,58.99,low,low,7,namesilo,,,
 bc415dd5-c72d-487e-8b4a-59d7b8af08d0,pretty.condos,available,58.99,58.99,high,low,6,namesilo,,,
-391f95e1-6685-407d-8504-1feb1f8fbece,WorldWarII.condos,available,58.99,58.99,low,low,12,namesilo,,,
+391f95e1-6685-407d-8504-1feb1f8fbece,worldwarii.condos,available,58.99,58.99,low,low,12,namesilo,,,
 b9760623-7619-4861-8c57-d9fcc0cefb82,quiteafew.condos,available,58.99,58.99,medium,low,11,namesilo,,,
 8622505e-fea6-440a-8c1b-df9807d7200b,volleyball.condos,available,58.99,58.99,high,low,10,namesilo,,,
 19f0bcbf-7d8c-4fe2-b961-290fb08d5884,yur.condos,available,58.99,58.99,high,low,3,namesilo,,,
@@ -393,7 +392,7 @@ fcabb580-b3c7-42e9-9e3e-a4a8822cc30e,aperient.condos,available,58.99,58.99,low,l
 06dbcea8-58ae-4108-9a78-cfc2e651c5ac,continual.condos,available,71.99,75.99,medium,low,9,name.com,,,
 8021ec9d-6db1-4d23-a977-d63c16329ef6,dormant.condos,available,58.99,58.99,low,low,7,namesilo,,,
 b14a7bdc-cdcd-4d8a-bc1b-28f2632dc987,thinking.condos,available,58.99,58.99,high,low,8,namesilo,,,
-ed753358-41f6-49bd-a5aa-8630ca854939,His.condos,premium,118.8,118.8,high,low,3,namesilo,,,
+ed753358-41f6-49bd-a5aa-8630ca854939,his.condos,premium,118.8,118.8,high,low,3,namesilo,,,
 9b474a3d-b53b-49ea-81de-1cde6f8b1a66,bewildered.condos,available,58.99,58.99,low,low,10,namesilo,,,07/08/2026 11:52
 608ab1f5-5a6d-4067-9786-8723609c3ec7,boo.condos,premium,82.5,,high,low,3,name.com,,,
 6303f367-c911-44b3-8a0e-a8fec0ec2dd6,effectively.condos,available,58.99,58.99,medium,low,11,namesilo,,,
@@ -407,12 +406,12 @@ b1a279de-5d48-43a4-a429-690e441d1824,sexhair.condos,available,71.99,,low,low,8,n
 d0d53492-53f1-40d1-8caf-9ad560a55a86,atrial.condos,available,58.99,58.99,low,low,6,namesilo,,,07/08/2026 14:24
 7f5fb99d-4bd7-49e6-a0fb-d6156eb74bb9,maybe.condos,available,71.99,,high,low,5,name.com,,,
 b99da23a-b805-4f0c-8225-2820a2e42442,grip.condos,available,58.99,58.99,high,low,4,namesilo,,,
-8a36cf05-7a5d-458d-954a-5012dfb38044,CNN.condos,available,58.99,58.99,high,low,3,namesilo,,,
+8a36cf05-7a5d-458d-954a-5012dfb38044,cnn.condos,available,58.99,58.99,high,low,3,namesilo,,,
 824ee706-3474-48bb-abb8-7a84764d7c58,allegro.condos,available,71.99,75.99,high,low,7,name.com,,,
 b034bdb6-b493-4008-90d9-627620260fc6,sweetandsour.condos,available,58.99,58.99,high,low,14,namesilo,,,
 3da4cc5b-e202-4897-b174-70a375185f12,animals.condos,available,71.99,,medium,low,7,name.com,,,
 47e21e29-8ce2-4c7c-a6a1-bc308b751053,alchemic.condos,available,58.99,58.99,low,low,8,namesilo,,,
-52d36fac-f031-4fc2-b4d4-265f95344623,Stars.condos,available,58.99,58.99,high,low,5,namesilo,,,
+52d36fac-f031-4fc2-b4d4-265f95344623,stars.condos,available,58.99,58.99,high,low,5,namesilo,,,
 ce14728b-bb50-4950-94d8-ba21170619be,dandy.condos,available,58.99,58.99,low,low,5,namesilo,,,08/08/2026 12:30
 629dd002-c266-4531-91c1-4df4e99908f2,heart.condos,premium,118.8,118.8,high,low,5,namesilo,,,
 4c0a99ea-f4d7-4c61-beb3-f10b07811eba,communicate.condos,available,58.99,58.99,high,low,11,namesilo,,,
@@ -442,8 +441,8 @@ f168bc0f-2ade-4e62-9916-d4f4f5570635,coach.condos,premium,242,242,high,low,5,nam
 ab84407c-28ff-46a5-b16b-0d44ee75af6b,vinegary.condos,available,58.99,58.99,low,low,8,namesilo,,,
 2f346c37-cfb6-4a44-aad6-f4767b577a48,undeveloped.condos,available,71.99,,low,low,11,name.com,,,
 17706860-49e4-42ee-8a6e-201dbbdb6a4f,abridged.condos,available,,,medium,low,8,,,,
-89cce8d4-08c5-45b3-b4c7-bf3e2a54799b,Pamela.condos,available,58.99,58.99,high,low,6,namesilo,,,
-c96f56fd-d914-4a0c-8c4e-a03b55d0f48e,wall.condos,available,58.99,58.99,high,low,4,namesilo,,,
+89cce8d4-08c5-45b3-b4c7-bf3e2a54799b,pamela.condos,available,58.99,58.99,high,low,6,namesilo,,,
+c96f56fd-d914-4a0c-8c4e-a03b55d0f48e,wall.condos,available,58.99,58.99,medium,low,4,namesilo,,,19/09/2026 13:29
 5c3321af-d14c-4b7e-a62a-d70dbbff1c85,andrew.condos,available,71.99,,high,medium,6,name.com,,,
 8666268e-2585-4d50-b56a-9cdbe4a24ef4,peppermintoil.condos,available,58.99,58.99,low,low,14,namesilo,,,
 8bdb5d62-a4dc-4145-8692-03e6860ede1f,today.condos,premium,118.8,118.8,high,low,5,namesilo,,,
@@ -459,8 +458,8 @@ b7e6452a-a60e-4a72-a398-5d8391c4b5f6,gopublic.condos,available,58.99,58.99,mediu
 47d9bdc3-86b0-458f-904c-7f1fc29ce200,scheme.condos,available,58.99,58.99,medium,low,6,namesilo,,,
 99ed1c47-3185-4113-8e01-66c382711de0,helper.condos,available,58.99,58.99,medium,low,6,namesilo,,,
 2135e551-1cc0-4a60-8025-85a6469b3b9c,ilxx.condos,available,58.99,58.99,low,low,4,namesilo,,,
-e709b3ed-d0f9-47f5-b735-508a0da69261,journal.condos,available,58.99,58.99,medium,low,7,namesilo,,,15/09/2026 03:33
-78f1c35e-832f-4ab9-9ec5-5ba84de088dc,TempleCity.condos,available,58.99,58.99,low,low,11,namesilo,,,
+e709b3ed-d0f9-47f5-b735-508a0da69261,journal.condos,available,61.98,72.98,medium,low,7,namecheap,,,19/09/2026 18:05
+78f1c35e-832f-4ab9-9ec5-5ba84de088dc,templecity.condos,available,58.99,58.99,low,low,11,namesilo,,,
 d42d31c8-b6ca-40cb-a30b-e12bfc45b813,rested.condos,available,71.99,,high,low,6,name.com,,,
 13461f8a-79fc-4038-8312-067142dc23ba,alaska.condos,resell,,,high,low,6,"GoDaddy.com, LLC",08/07/2014 23:49,08/07/2027 23:49,17/09/2026 22:41
 ec750d14-7bc3-48f8-afc3-a750bacb13f0,candybar.condos,available,58.99,58.99,high,low,9,namesilo,,,
@@ -483,7 +482,7 @@ bb55cd46-d2c3-413f-9f01-d30d02f59d69,banking.condos,available,58.99,58.99,high,l
 60aca5da-67c4-473d-bc21-f57df17338db,quickness.condos,available,58.99,58.99,high,low,9,namesilo,,,
 b9f99b44-6f60-4db4-b5ba-d0b53091aeb4,observer.condos,available,58.99,58.99,medium,low,8,namesilo,,,
 9a417aca-436b-47b3-9313-e8c7363b8e18,acquitted.condos,available,61.98,72.98,low,low,9,namecheap,,,
-2e73da4c-9253-4a67-84bd-dc1e9de91eba,Katy.condos,available,71.99,,high,low,4,name.com,,,
+2e73da4c-9253-4a67-84bd-dc1e9de91eba,katy.condos,available,71.99,,high,low,4,name.com,,,
 291c7181-6d56-4d54-b6bb-f8665b3ec648,camouflage.condos,available,58.99,58.99,high,low,10,namesilo,,,
 b6b81403-b6b8-4298-8038-944dc31e5e13,alone.condos,available,71.99,75.99,high,low,5,name.com,,,
 fb181547-73be-4baa-a822-7682b52b981c,analytical.condos,available,58.99,58.99,low,low,10,namesilo,,,
@@ -501,7 +500,7 @@ ae04671a-bb24-4336-b8dd-95269abb34cd,bastioned.condos,available,58.99,58.99,low,
 9e0554aa-31b2-4e9b-ac7f-bfbc8e60124c,beamy.condos,available,58.99,58.99,low,low,5,namesilo,,,09/08/2026 04:18
 43a98b3f-3fae-4ca2-9aa8-902227d1d6bf,trulyyours.condos,available,58.99,58.99,low,low,11,namesilo,,,
 954e13b5-c019-4ef6-9efb-0ecf52d28cce,assure.condos,available,58.99,58.99,high,low,6,namesilo,,,
-8c799b28-ae6a-404f-935f-32e5cdb27beb,BlackDeath.condos,available,58.99,58.99,low,low,11,namesilo,,,
+8c799b28-ae6a-404f-935f-32e5cdb27beb,blackdeath.condos,available,58.99,58.99,low,low,11,namesilo,,,
 7104261a-7d45-48bb-8c7c-abbb5a0cf27f,myspace.condos,available,,,high,low,7,,,,
 0888f064-a4e7-4816-a2a2-3321510382e0,antrorse.condos,available,58.99,58.99,low,low,8,namesilo,,,05/08/2026 20:21
 8663c9ae-4e64-45b3-bfae-4e93ae62fcdc,lastly.condos,available,71.99,,medium,low,6,name.com,,,
@@ -518,7 +517,7 @@ e847d352-eeef-45f7-80b1-236fd9284d0d,understand.condos,available,58.99,58.99,hig
 3bc14561-4114-4041-9f77-ac6eb3382a5e,invaluable.condos,available,58.99,58.99,high,low,10,namesilo,,,
 4e961920-7fee-446f-b1af-812e21cbb495,colombo.condos,available,58.99,58.99,high,low,7,namesilo,,,
 cfc7d1e5-d9b8-4587-9edb-d2b3081fb199,conventionally.condos,available,71.99,,medium,low,14,name.com,,,
-a4093e99-648f-4f3c-a57d-4cf897a5adad,mail.condos,available,58.99,58.99,high,medium,4,namesilo,,,
+a4093e99-648f-4f3c-a57d-4cf897a5adad,mail.condos,available,58.99,58.99,medium,low,4,namesilo,,,19/09/2026 05:07
 bae8631e-cf86-41fc-8ec9-2c42d552a732,lag.condos,available,58.99,58.99,medium,low,3,namesilo,,,
 ddbf7980-b0d4-421b-b8ed-93d173ed22cd,letgo.condos,available,58.99,58.99,high,low,6,namesilo,,,
 c9fdf68e-da4c-4542-ab37-696ca5e512a3,environmentally.condos,available,58.99,58.99,medium,low,15,namesilo,,,
@@ -527,7 +526,7 @@ a0023e12-1075-4490-9b86-adb792b611ed,bush.condos,available,58.99,58.99,medium,lo
 3160ce36-0a50-43f9-9368-dadc45629b73,hotpepper.condos,available,58.99,58.99,high,low,10,namesilo,,,
 f19b6845-c40f-4e6b-9a73-88790c6c5aca,stellar.condos,available,71.99,,high,medium,7,name.com,,,
 24542372-1382-4077-a96b-39b9ed17f0b1,laws.condos,available,58.99,58.99,high,low,4,namesilo,,,
-b87a9c55-a9b8-4634-b3ee-d3a2cf1f2a1d,devices.condos,available,58.99,58.99,high,low,7,namesilo,,,
+b87a9c55-a9b8-4634-b3ee-d3a2cf1f2a1d,devices.condos,available,61.98,72.98,medium,low,7,namecheap,,,19/09/2026 10:40
 d1cd1618-ee16-4839-8525-05d5ef6d9e44,campaign.condos,available,58.99,58.99,high,low,8,namesilo,,,
 77df4d20-0215-4d88-802c-f1a1eb05526d,enlivening.condos,available,58.99,58.99,low,low,10,namesilo,,,
 df0ff071-f778-45e3-880a-e547e714eae6,aleuronic.condos,available,58.99,58.99,low,low,9,namesilo,,,
@@ -573,7 +572,7 @@ f624f84d-28ff-4a0e-9a13-2ec05c1957f0,empty.condos,available,71.99,,high,low,5,na
 0b440590-ec4f-4706-b304-7a8f29fc9cb4,lowering.condos,available,58.99,58.99,high,low,8,namesilo,,,
 7eded3b6-8a6a-47b8-b534-176f2438f34f,contingent.condos,available,71.99,75.99,high,low,10,name.com,,,
 b2664c6d-f067-43a0-8801-d0324ae637f6,magical.condos,available,58.99,58.99,high,low,7,namesilo,,,
-e02b9cb3-8bc7-4924-9aa9-690713324138,Xrated.condos,available,58.99,58.99,low,low,7,namesilo,,,
+e02b9cb3-8bc7-4924-9aa9-690713324138,xrated.condos,available,58.99,58.99,low,low,7,namesilo,,,
 384aeaef-c421-4d19-a7ca-b08f36bc8b55,wiring.condos,available,58.99,58.99,high,low,6,namesilo,,,
 9eaa87a1-fe02-4c79-9816-818d386b0ff4,seats.condos,available,58.99,58.99,high,low,5,namesilo,,,
 636168b2-9cb2-44e0-aaa1-8b242bb673ed,side.condos,available,58.99,58.99,high,low,4,namesilo,,,
@@ -596,7 +595,7 @@ db124a2f-43df-4fa0-929f-130ff3ded182,confusing.condos,available,71.99,75.99,medi
 a1297e7a-c70e-4a29-af27-e7983bf9d685,limitation.condos,available,58.99,58.99,medium,low,10,namesilo,,,
 40b6fa51-7128-4af0-9904-46aaedb36725,deserted.condos,available,58.99,58.99,low,low,8,namesilo,,,
 3a4f1846-4940-450c-8c1f-1d02c559246e,autistic.condos,available,58.99,58.99,low,low,8,namesilo,,,07/08/2026 19:22
-63b138f4-1988-41af-8d3a-00f076f83ef8,MexicoCity.condos,premium,118.8,118.8,medium,low,11,namesilo,,,
+63b138f4-1988-41af-8d3a-00f076f83ef8,mexicocity.condos,premium,118.8,118.8,medium,low,11,namesilo,,,
 a1e3dd0b-e2b6-4b1b-9e15-b8ac96b99cbe,aweigh.condos,available,58.99,58.99,low,low,6,namesilo,,,07/08/2026 14:29
 8039ca9e-67bb-4f44-8007-92c8036e8ae1,hungry.condos,available,58.99,58.99,high,low,6,namesilo,,,
 b1a50e17-f11c-4625-8e25-f42a1f54c04d,getthepoint.condos,available,58.99,58.99,high,low,13,namesilo,,,
@@ -604,7 +603,7 @@ b1a50e17-f11c-4625-8e25-f42a1f54c04d,getthepoint.condos,available,58.99,58.99,hi
 9b99ecb7-8bd3-4637-a558-6c59e19334bf,feb.condos,available,58.99,58.99,high,low,3,namesilo,,,
 c3cf3be2-f06a-4ab1-ae40-c0edf2b08b89,gather.condos,available,71.99,75.99,high,low,6,name.com,,,
 37b0681e-018b-4b75-9d7f-5b55440cac94,channukah.condos,available,58.99,58.99,medium,low,9,namesilo,,,
-87ec2cf5-48c0-4624-bf5d-a136af0b0ff8,StFrancis.condos,available,58.99,58.99,medium,low,11,namesilo,,,
+87ec2cf5-48c0-4624-bf5d-a136af0b0ff8,stfrancis.condos,available,58.99,58.99,medium,low,11,namesilo,,,
 c1540945-194c-43b0-92e1-edc099eb4183,generalpractice.condos,available,58.99,58.99,high,low,16,namesilo,,,
 b20e946a-774c-4415-ace5-3a798ba2489c,boer.condos,available,58.99,58.99,low,low,4,namesilo,,,
 6dfaa90a-0ff4-4258-b42b-45c53e9683e4,individual.condos,available,58.99,58.99,high,low,10,namesilo,,,
@@ -613,18 +612,18 @@ b20e946a-774c-4415-ace5-3a798ba2489c,boer.condos,available,58.99,58.99,low,low,4
 3528dc92-6bb6-4527-86b6-5542d0afd33b,batrachian.condos,available,58.99,58.99,low,low,10,namesilo,,,05/08/2026 20:53
 385e0188-307c-4d2b-b199-a1d8314ac9c5,overnight.condos,available,71.99,75.99,high,low,9,name.com,,,
 9368b30a-0ea0-4842-bc43-431b6d35c295,orchestra.condos,available,58.99,58.99,high,low,9,namesilo,,,
-45f3e5a5-292a-4f8d-8ad7-acd749ae4149,computer.condos,premium,118.8,118.8,medium,low,8,namesilo,,,14/09/2026 03:44
+45f3e5a5-292a-4f8d-8ad7-acd749ae4149,computer.condos,premium,118.8,118.8,medium,low,8,namesilo,,,19/09/2026 07:18
 bb26a148-6c2f-43fa-b3ab-5986bdf22b7b,artful.condos,available,58.99,58.99,low,low,6,namesilo,,,06/08/2026 22:44
 481c5f30-4f36-4a35-b3a4-de417926574c,gettofirstbase.condos,available,58.99,58.99,high,low,17,namesilo,,,
 f64f4045-82b9-46ef-b974-3052dae82d17,takebystorm.condos,available,58.99,58.99,low,low,13,namesilo,,,
 f3808438-e806-41a1-a5f8-63dcb4d137de,craft.condos,available,71.99,75.99,high,medium,5,name.com,,,
 d94191be-50de-447e-b15a-67a6f665fa38,brandnew.condos,available,58.99,58.99,high,low,9,namesilo,,,
 8206c3ec-29f5-443d-b3e4-f599100aff62,lifelesson.condos,available,71.99,,high,low,11,name.com,,,
-b6485584-11ef-4933-b9a5-ea337db6b432,RedSquare.condos,available,58.99,58.99,low,low,10,namesilo,,,
+b6485584-11ef-4933-b9a5-ea337db6b432,redsquare.condos,available,58.99,58.99,low,low,10,namesilo,,,
 26882117-0101-4051-a8fe-d78a8d69afa4,annelid.condos,available,58.99,58.99,low,low,7,namesilo,,,
 999211fd-127d-4766-b95e-14aabe49e9d7,hospital.condos,available,58.99,58.99,medium,low,8,namesilo,,,
 248347d8-c819-41c6-b48f-a342af3fe4b5,roger.condos,available,58.99,58.99,high,low,5,namesilo,,,
-b8e7e279-ec32-43dc-8ee9-071508bc7a2c,Godlovesomeone.condos,available,71.99,,medium,low,16,name.com,,,
+b8e7e279-ec32-43dc-8ee9-071508bc7a2c,godlovesomeone.condos,available,71.99,,medium,low,16,name.com,,,
 1a8b8aa2-0426-4f60-ab80-6bf2604dbf8e,according.condos,available,58.99,58.99,low,low,9,namesilo,,,
 b89f43e6-bd23-4c25-b96d-6a13230c9038,sixtyfive.condos,available,58.99,58.99,low,low,10,namesilo,,,
 02cc0522-ecb7-417f-9aba-9b4cd214b2bf,goodbye.condos,available,58.99,58.99,medium,low,8,namesilo,,,08/09/2026 03:25
@@ -651,11 +650,11 @@ bb4eb30a-0ef1-4741-956c-bb3e8dd66d14,onemillion.condos,available,58.99,58.99,low
 0fd36c7a-533a-42cf-8bbb-0479e85d7c99,alienate.condos,available,58.99,58.99,low,low,8,namesilo,,,
 d7d81a9f-0a50-49f1-af77-901bf9032737,airy.condos,available,58.99,58.99,medium,low,4,namesilo,,,
 6f7e7543-cfd6-48c5-9577-eadc37923691,inplace.condos,available,58.99,58.99,medium,low,8,namesilo,,,
-e0ef7bc1-29c5-48e2-a1d2-92b7a02465c5,Panasonic.condos,available,,,high,low,9,,,,
+e0ef7bc1-29c5-48e2-a1d2-92b7a02465c5,panasonic.condos,available,,,high,low,9,,,,
 a4472dc2-ccae-4dcd-be8f-4a2a4c2e9ca7,clxxv.condos,available,58.99,58.99,low,low,5,namesilo,,,
 dff348c4-2c71-4a49-9bdf-2616e6e07bc8,retro.condos,available,71.99,,high,medium,5,name.com,,,
 25dcf8d7-954e-4018-b2ba-e3993de584c5,trivial.condos,available,58.99,58.99,high,low,7,namesilo,,,
-dc589601-816e-4971-90b8-abdd96cfcdfd,Flowers.condos,available,58.99,58.99,high,medium,7,namesilo,,,
+dc589601-816e-4971-90b8-abdd96cfcdfd,flowers.condos,available,58.99,58.99,high,medium,7,namesilo,,,
 a68f9689-f3ec-4e70-a396-da7f5af0cf36,coffeetablebook.condos,available,58.99,58.99,high,low,17,namesilo,,,
 839389bb-afd5-427f-9723-414d93f14cce,antimonic.condos,available,58.99,58.99,low,low,9,namesilo,,,
 704a669f-1222-4e17-8d26-8adb64749414,actinide.condos,available,58.99,58.99,low,low,8,namesilo,,,
@@ -686,13 +685,13 @@ b5db8895-1e57-49a6-9d9b-5978cb769d92,things.condos,available,71.99,,high,low,6,n
 7f80e7f6-66fd-4194-8b6f-4b3f307dd2e4,treehugger.condos,available,71.99,,medium,low,11,name.com,,,
 18120e04-55e8-479e-b9f1-7c635d814a3e,garret.condos,available,58.99,58.99,low,low,6,namesilo,,,07/08/2026 15:51
 8b1b2052-5c41-43b0-9ac0-108a6180174b,discover.condos,available,,,medium,low,8,,,,
-75e8a06a-8217-4a52-91bb-90cb8879638e,Dicks.condos,available,58.99,58.99,medium,low,5,namesilo,,,
+75e8a06a-8217-4a52-91bb-90cb8879638e,dicks.condos,available,58.99,58.99,medium,low,5,namesilo,,,
 e5c6bb7d-4ab5-4199-bd57-fe1c0fa4e57c,adjuvant.condos,available,58.99,58.99,low,low,8,namesilo,,,
 5bfa3576-e73e-4c49-8030-87161a3747d1,barbate.condos,available,58.99,58.99,low,low,7,namesilo,,,08/08/2026 16:10
 b6dc9801-4dcf-4f7f-a29e-6890c936becd,adios.condos,available,58.99,58.99,high,low,5,namesilo,,,
 83ba80f1-7b3c-4991-b3b6-a2abc1db825a,informationengine.condos,available,58.99,58.99,high,low,18,namesilo,,,
 2d6fa9f4-5009-47b6-914c-ffc7c9824a45,globular.condos,available,58.99,58.99,low,low,8,namesilo,,,08/08/2026 10:06
-63101a1b-eac7-41e5-ac59-5d4a3bfd986e,TexasCity.condos,available,58.99,58.99,low,low,10,namesilo,,,
+63101a1b-eac7-41e5-ac59-5d4a3bfd986e,texascity.condos,available,58.99,58.99,low,low,10,namesilo,,,
 d7902de6-bb74-4cdc-8e87-171b0da1d347,lookback.condos,available,58.99,58.99,high,low,9,namesilo,,,
 c0efbcf7-e991-437d-bb99-1b25eefcfbc5,givethanks.condos,available,58.99,58.99,medium,low,11,namesilo,,,
 823d32b5-d710-4a6b-8693-ccc989e4313a,modeller.condos,available,71.99,,high,low,8,name.com,,,
@@ -720,7 +719,7 @@ b3edfc3f-ae7f-420b-a455-0f731f3f1ee8,manualwork.condos,available,58.99,58.99,med
 e6b1771c-c340-4585-b482-c23a36e92997,packed.condos,available,58.99,58.99,medium,low,6,namesilo,,,
 621fe56f-5b67-4414-841c-2ec90e46422e,registeredtrademark.condos,available,71.99,,medium,low,20,name.com,,,
 9f5f6023-a4fd-4549-b625-8a5a04a90c44,turncoat.condos,available,58.99,58.99,low,low,8,namesilo,,,06/08/2026 03:49
-69ac0096-4d98-41a3-9ba8-b35af0482d02,Nokia.condos,available,,,high,low,5,,,,
+69ac0096-4d98-41a3-9ba8-b35af0482d02,nokia.condos,available,,,high,low,5,,,,
 45329d2a-cbd5-4e88-817a-84c7551b238b,cxxxv.condos,available,58.99,58.99,low,low,5,namesilo,,,
 f31bf187-e91f-4ee2-82f4-cbbe97db3769,inthehand.condos,available,58.99,58.99,medium,low,11,namesilo,,,
 072829ea-d4a7-487b-b8d1-a6099719d2de,antarctic.condos,available,58.99,58.99,low,low,9,namesilo,,,
@@ -776,7 +775,7 @@ afef4fad-eff7-4856-822c-af46d43a49fc,continuing.condos,available,71.99,75.99,hig
 d8e1b34c-2df8-42e2-a409-131be651d735,turntup.condos,available,71.99,,high,low,8,name.com,,,
 ba1099cf-5724-495d-957d-2349ad7ac0ed,despotic.condos,available,58.99,58.99,low,low,8,namesilo,,,07/08/2026 18:58
 84c41f82-a94a-4282-8f58-6c7b6d3bdd81,aneroid.condos,available,58.99,58.99,low,low,7,namesilo,,,
-24b4d3c1-7d75-480c-b56e-7b3297c72fea,sweetFA.condos,available,58.99,58.99,low,low,8,namesilo,,,
+24b4d3c1-7d75-480c-b56e-7b3297c72fea,sweetfa.condos,available,58.99,58.99,low,low,8,namesilo,,,
 dcdc64ef-4759-4b46-aa8e-32587fb66827,lucrative.condos,available,58.99,58.99,high,low,9,namesilo,,,
 6316d7fe-f4e9-4e98-86ab-88cfe2ad7d86,smartphone.condos,available,58.99,58.99,high,low,10,namesilo,,,
 aa4ac828-9160-41e9-b658-6c46fbdb76e5,action.condos,available,58.99,58.99,high,medium,6,namesilo,,,
@@ -791,8 +790,8 @@ d6279566-c116-467b-8bd9-362ba9b36412,keepthepeace.condos,available,58.99,58.99,h
 c22477ca-dfdc-4816-8b17-abfe2531baa2,lan.condos,available,58.99,58.99,medium,low,3,namesilo,,,
 61b78a3c-1ef1-46e5-96f0-2e8915e9db0e,anaerobic.condos,available,58.99,58.99,low,low,9,namesilo,,,
 d6e368a9-726e-4bc4-85d2-2ada9af16934,teammate.condos,available,71.99,,high,low,8,name.com,,,
-12e0caf6-a493-4fa5-b19b-df189ed036b5,Oxfam.condos,available,58.99,58.99,high,low,5,namesilo,,,
-473bcbe7-4bcd-45bd-9639-3a5c26822036,savings.condos,available,58.99,58.99,high,low,7,namesilo,,,
+12e0caf6-a493-4fa5-b19b-df189ed036b5,oxfam.condos,available,58.99,58.99,high,low,5,namesilo,,,
+473bcbe7-4bcd-45bd-9639-3a5c26822036,savings.condos,available,58.99,58.99,medium,low,7,namesilo,,,19/09/2026 13:58
 ddee67ba-b680-458a-91c2-04a3543b0523,abyssal.condos,available,58.99,58.99,low,low,7,namesilo,,,
 1a192a96-0072-42d8-b662-78391b8a8b7c,atmost.condos,available,58.99,58.99,medium,low,7,namesilo,,,
 7a1d5811-8b72-4b04-95ad-9e7294a1d8f9,arguseyed.condos,available,58.99,58.99,low,low,10,namesilo,,,06/08/2026 18:38
@@ -809,18 +808,18 @@ cfcea44c-6119-477c-a175-e17154aca17c,entirety.condos,available,58.99,58.99,high,
 7f6624ba-f235-4b60-b06f-b84d3e3237bd,prototypal.condos,available,58.99,58.99,low,low,10,namesilo,,,06/08/2026 15:37
 10d1f4d9-7bbf-4194-b996-bd9c97fb41b6,dozen.condos,available,71.99,75.99,high,low,5,name.com,,,
 b043ca25-7668-4dda-92a8-0f47f999eba6,incompanywith.condos,available,58.99,58.99,medium,low,15,namesilo,,,
-c63b2cbd-9866-42e3-9eb2-e48f0208a3fb,WestEuropean.condos,available,58.99,58.99,low,low,13,namesilo,,,
+c63b2cbd-9866-42e3-9eb2-e48f0208a3fb,westeuropean.condos,available,58.99,58.99,low,low,13,namesilo,,,
 9f807948-65f3-484f-9eee-bbacd0c4daab,abnormal.condos,available,71.99,75.99,high,low,8,name.com,,,
 15008be5-97b0-4d61-ae4c-1e0d89844e1a,pink.condos,premium,500,,high,low,4,name.com,,,
 19d0b32d-815b-48a3-a33a-92b05d930b2b,chase.condos,available,,,medium,low,5,,,,
 90e8718d-fbd7-4674-8df1-2ffe324809a6,hair.condos,available,58.99,58.99,high,low,4,namesilo,,,
 3c9f9cc6-b0ee-44f0-9203-3b4a68e7eb07,digitalwatch.condos,available,58.99,58.99,high,low,13,namesilo,,,
 56a3ca7b-a670-4431-a03f-8634b07700d2,wasted.condos,available,71.99,,medium,low,6,name.com,,,
-6281825d-f103-46d8-aed7-98d10628729e,Streets.condos,available,58.99,58.99,high,low,7,namesilo,,,
+6281825d-f103-46d8-aed7-98d10628729e,streets.condos,available,58.99,58.99,high,low,7,namesilo,,,
 e8cb372e-4a37-4e16-b03b-3e2c6cd4af00,acronym.condos,available,58.99,58.99,high,low,7,namesilo,,,
 8a217301-e94d-4ba1-a12f-fe6cb2347723,alienated.condos,available,58.99,58.99,low,low,9,namesilo,,,
 a2aedccc-aa57-4ec1-adef-291bac7869ec,fork.condos,available,58.99,58.99,high,low,4,namesilo,,,
-12a2fe6a-ea97-492d-b6a6-511dcb49e6b9,Sundayroast.condos,available,58.99,58.99,high,low,12,namesilo,,,
+12a2fe6a-ea97-492d-b6a6-511dcb49e6b9,sundayroast.condos,available,58.99,58.99,high,low,12,namesilo,,,
 3e1442b2-13a0-4fa2-a86d-fcea28664350,winterblues.condos,available,58.99,58.99,low,low,12,namesilo,,,
 5fd0f5a4-859d-4ff5-8482-ebf81b9dcc26,round.condos,available,58.99,58.99,low,low,5,namesilo,,,09/08/2026 05:09
 26f9e2b1-c5dd-46ed-b85e-198eb279ed24,elusive.condos,available,58.99,58.99,low,low,7,namesilo,,,08/08/2026 08:07
@@ -850,7 +849,7 @@ b5833f02-297e-4fb0-95ea-4630fe10e0ac,sunlight.condos,available,71.99,,high,low,8
 e3d47d14-cdbf-434a-a9bc-0e5a3fe11a30,gettothepoint.condos,available,58.99,58.99,high,low,16,namesilo,,,
 a76057cd-f82e-4fc0-a7b8-6f83f7482a10,showcase.condos,available,58.99,58.99,high,low,8,namesilo,,,
 7f399120-e005-48c0-8427-8eae8a669949,salt.condos,available,71.99,,high,low,4,name.com,,,
-1af772b1-cd8d-463c-bbd2-00e9d972218d,Iaskyou.condos,available,58.99,58.99,medium,low,9,namesilo,,,
+1af772b1-cd8d-463c-bbd2-00e9d972218d,iaskyou.condos,available,58.99,58.99,medium,low,9,namesilo,,,
 beba3df0-57a1-49a6-98b2-d1797475ca3e,spiceup.condos,available,58.99,58.99,high,low,8,namesilo,,,
 aedd1fd0-6d00-4bae-85d1-ccc150638094,antennal.condos,available,58.99,58.99,low,low,8,namesilo,,,
 a5175fe1-26fe-4f99-8ccd-d2cc811b7654,fact.condos,available,58.99,58.99,high,low,4,namesilo,,,
@@ -859,7 +858,7 @@ de2234dd-308b-4443-bcda-125da661d16e,visitor.condos,available,58.99,58.99,high,l
 acc72d9a-a6f0-47b2-8f0f-3c18f1404644,afrikander.condos,available,58.99,58.99,low,low,10,namesilo,,,
 9d76e3b0-688e-4a31-9981-62ee1626c981,everybodyelse.condos,available,71.99,,medium,low,14,name.com,,,
 7e3f916c-7d93-4289-9c8c-396e6cd6e8b0,howmuchisit.condos,available,58.99,58.99,medium,low,14,namesilo,,,
-f942cb31-1cc2-41db-94fa-bacebb5d5229,BlackThursday.condos,available,58.99,58.99,medium,low,14,namesilo,,,
+f942cb31-1cc2-41db-94fa-bacebb5d5229,blackthursday.condos,available,58.99,58.99,medium,low,14,namesilo,,,
 585a9173-2243-44c8-b89a-c2e023e10192,divert.condos,available,71.99,75.99,high,low,6,name.com,,,
 f4206320-a91d-4b14-b269-3374904da822,ofapiece.condos,available,58.99,58.99,low,low,10,namesilo,,,
 5024f803-e898-45df-b107-88144bccbf4b,threatening.condos,available,58.99,58.99,high,low,11,namesilo,,,
@@ -900,36 +899,36 @@ d0c03bbc-8d35-43ca-a738-6038a0ef989a,use.condos,premium,118.8,118.8,high,low,3,n
 fd7248d4-c562-4a97-bf5c-41b8419593a1,youandyours.condos,available,58.99,58.99,low,low,13,namesilo,,,
 7ad245ca-a2aa-47b0-ac56-8ffb4d9adf7a,mount.condos,available,58.99,58.99,medium,low,5,namesilo,,,
 570855dd-160c-4a7d-af4e-650b01f3241a,nan.condos,available,71.99,,high,low,3,name.com,,,
-df6c0633-8f2a-4931-a72a-c98088a360e1,Ilikepie.condos,available,71.99,,medium,low,10,name.com,,,
+df6c0633-8f2a-4931-a72a-c98088a360e1,ilikepie.condos,available,71.99,,medium,low,10,name.com,,,
 25587bdb-291d-4d46-bb4d-40e2d96e97b7,receptionchair.condos,available,58.99,58.99,medium,low,15,namesilo,,,
-0f4a529b-33a3-4d97-9f7b-16f9cd7d71dc,UnitedKingdom.condos,available,,,low,low,14,,,,
+0f4a529b-33a3-4d97-9f7b-16f9cd7d71dc,unitedkingdom.condos,available,,,low,low,14,,,,
 fb1c2e01-1f69-41c3-8bf9-6e5b0657afb3,abovenamed.condos,available,58.99,58.99,medium,low,11,namesilo,,,
 e1e44df3-1030-4925-a76d-0bbe90096a48,aramaic.condos,available,58.99,58.99,low,low,7,namesilo,,,06/08/2026 12:13
 d98550ee-ef7f-43f3-b86e-a899eadb639a,herbalmedicine.condos,available,58.99,58.99,high,low,15,namesilo,,,
 9bab13e1-2220-4fef-8e69-078c86c6683c,intelligence.condos,available,71.99,,high,low,12,name.com,,,
-04617f62-5e5b-40aa-8713-bd21057886a8,dessert.condos,available,58.99,58.99,medium,low,7,namesilo,,,15/09/2026 06:13
+04617f62-5e5b-40aa-8713-bd21057886a8,dessert.condos,available,61.98,72.98,medium,low,7,namecheap,,,19/09/2026 09:08
 76ec85a6-dd97-400f-adec-b9d076306bf8,wipeup.condos,available,71.99,,high,low,7,name.com,,,
 b7006976-f8b4-40f9-82bc-384647b51763,apoplectic.condos,available,58.99,58.99,low,low,10,namesilo,,,06/08/2026 03:29
 4b802793-f30b-4194-a65f-eaaf72db3ff0,identifier.condos,available,58.99,58.99,high,low,10,namesilo,,,
 8af62fe9-4645-403e-a66a-a4bb85fe89d5,longhaired.condos,available,71.99,,low,low,11,name.com,,,
-57778fbf-04de-488c-9d8a-93efa562d8e3,learning.condos,available,58.99,58.99,high,low,8,namesilo,,,
+57778fbf-04de-488c-9d8a-93efa562d8e3,learning.condos,available,58.99,58.99,medium,low,8,namesilo,,,19/09/2026 05:11
 da34dfac-e384-4857-bca0-784b53583110,astomatal.condos,available,58.99,58.99,low,low,9,namesilo,,,07/08/2026 09:41
-c753a103-aae2-455c-b326-8f52b4c450cd,fixitagainTony.condos,available,58.99,58.99,medium,low,17,namesilo,,,
+c753a103-aae2-455c-b326-8f52b4c450cd,fixitagaintony.condos,available,58.99,58.99,medium,low,17,namesilo,,,
 c6d77de6-f2d6-4556-9f84-9709a0d39252,standing.condos,available,58.99,58.99,medium,low,8,namesilo,,,
 8484e730-be36-492d-b3cc-ec2f9ac6859a,moneymarketfund.condos,available,58.99,58.99,high,low,17,namesilo,,,
-2bbfe3fe-3ab8-4dfe-bb74-e5b9e336a54d,Nicki.condos,available,58.99,58.99,medium,low,5,namesilo,,,
+2bbfe3fe-3ab8-4dfe-bb74-e5b9e336a54d,nicki.condos,available,58.99,58.99,medium,low,5,namesilo,,,
 6ea7db6a-f96e-4be1-b0c2-52175999fb08,speedup.condos,available,58.99,58.99,medium,low,8,namesilo,,,
 ce4942a3-f69c-4f31-9720-f10d06ab3d08,leaving.condos,available,58.99,58.99,high,low,7,namesilo,,,
 2dc541ec-fc6c-40d7-b630-0689df9a423a,khakis.condos,available,58.99,58.99,high,low,6,namesilo,,,
 8ef15499-6f97-4510-96bc-c87e6a9f5f50,thirtysix.condos,available,58.99,58.99,low,low,10,namesilo,,,
 964c0c6b-168e-4566-86a0-f21200a81f0e,sip.condos,available,58.99,58.99,medium,low,3,namesilo,,,
 60296158-bb3b-4ffb-89ff-7fc8fd600289,augratin.condos,available,58.99,58.99,high,low,9,namesilo,,,
-5009c09f-efe0-46cd-8f52-105665eef523,Audi.condos,available,,,high,low,4,,,,
+5009c09f-efe0-46cd-8f52-105665eef523,audi.condos,available,,,high,low,4,,,,
 e714f4d3-8de2-4b52-9018-ba0a1e763241,basket.condos,available,58.99,58.99,high,low,6,namesilo,,,
-7314cfbb-a022-4017-9c29-498c66f16353,vast.condos,available,58.99,58.99,medium,low,4,namesilo,,,15/09/2026 03:15
+7314cfbb-a022-4017-9c29-498c66f16353,vast.condos,available,58.99,58.99,medium,low,4,namesilo,,,19/09/2026 06:11
 3082fbad-998a-45d6-ba94-6d05c323353d,picked.condos,available,58.99,58.99,high,low,6,namesilo,,,
 990af7a5-1010-4a1b-922a-aa3bb8658e05,characteristic.condos,available,71.99,,high,low,14,name.com,,,
-02d23fd8-ece3-4078-976b-299693f0794e,spread.condos,available,71.99,75.99,high,low,6,name.com,,,
+02d23fd8-ece3-4078-976b-299693f0794e,spread.condos,available,58.99,58.99,medium,low,6,namesilo,,,19/09/2026 12:51
 edc6a58b-506d-4bf4-9ceb-3dd2f325ec1b,andantino.condos,available,58.99,58.99,low,low,9,namesilo,,,
 b9b28029-f446-426f-a9b2-a05ef3d3f39b,pollen.condos,available,58.99,58.99,high,low,6,namesilo,,,
 52012cfc-c4a5-4cf9-9d3a-e85d5fd22f21,astimesgo.condos,available,71.99,,medium,low,11,name.com,,,
@@ -970,7 +969,7 @@ aef83cfe-0d07-4c9d-b4d3-21c41851b588,accessary.condos,available,58.99,58.99,low,
 d1bc097f-9b35-45f2-abd5-d94d220cc485,wordplay.condos,available,58.99,58.99,medium,low,9,namesilo,,,
 f9d4368e-7aae-4b6c-9666-c37f82a0ad08,discuss.condos,available,58.99,58.99,high,low,7,namesilo,,,
 7837ae05-717d-46b4-b2c6-2a61e20600a6,shrimp.condos,available,71.99,,high,low,6,name.com,,,
-08e9b626-c8fb-4376-9dc6-bf0fcc5130e3,licensed.condos,available,58.99,58.99,medium,low,8,namesilo,,,14/09/2026 03:12
+08e9b626-c8fb-4376-9dc6-bf0fcc5130e3,licensed.condos,available,58.99,58.99,low,low,8,namesilo,,,19/09/2026 16:56
 b73740d3-bc1a-414a-8caf-d7a1a6d85d95,ampullary.condos,available,58.99,58.99,low,low,9,namesilo,,,
 e15a3266-181b-46c5-b6c7-0e5fe2f5fe2a,kooky.condos,available,61.98,72.98,low,low,5,namecheap,,,06/08/2026 21:04
 b39189ce-9ebc-4e2d-b9ab-9818588cbd7a,bound.condos,available,71.99,,medium,low,5,name.com,,,
@@ -986,7 +985,7 @@ d1244b69-15f1-4e9f-8552-957a101d785c,getwiththetimes.condos,available,71.99,,hig
 add7d30d-a691-4d1d-baf9-88a36b6da57c,total.condos,available,71.99,75.99,high,low,5,name.com,,,
 63684c24-6658-4622-bf60-f2664220aa42,myapology.condos,available,58.99,58.99,high,low,10,namesilo,,,
 ce71dffe-af65-43d9-b099-40e315a8b5e5,xci.condos,available,61.98,72.98,low,low,3,namecheap,,,
-90227fd7-bd1a-42ff-9c3f-b49d6d1736f3,Dives.condos,available,58.99,58.99,medium,low,5,namesilo,,,
+90227fd7-bd1a-42ff-9c3f-b49d6d1736f3,dives.condos,available,58.99,58.99,medium,low,5,namesilo,,,
 f88cda6e-3c3b-433e-871b-c76b6f5ba3c5,ifallen.condos,available,58.99,58.99,medium,low,8,namesilo,,,
 78c7302e-b6b6-40e2-87a5-b92b7aa99174,ganja.condos,available,58.99,58.99,medium,low,5,namesilo,,,
 6854aa2f-126c-4d00-bd69-52157902a47a,will.condos,available,58.99,58.99,high,medium,4,namesilo,,,
@@ -999,3 +998,4 @@ fac74993-0f0d-4b09-b686-cdff1a935bf3,beer.condos,premium,118.8,118.8,high,low,4,
 54ee3b42-509a-4a7b-99f9-87195a9d9722,awed.condos,available,58.99,58.99,low,low,4,namesilo,,,08/08/2026 00:44
 8967a718-f302-44e3-8dd9-38cfdc481c80,indate.condos,available,58.99,58.99,medium,low,7,namesilo,,,
 b0c96572-e601-4d42-aded-685160474fe9,valuable.condos,available,58.99,58.99,high,low,8,namesilo,,,
+d28dbd80-84a8-40d1-bbef-5469d7cd759c,adagio.condos,available,58.99,58.99,low,low,6,namesilo,,,
