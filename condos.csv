@@ -2,6 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 86cef923-fdad-406f-9393-94da58346ad0,earle.condos,available,61.98,72.98,medium,low,5,namecheap,,,26/09/2026 03:17
 deef446a-b657-41bc-af54-056560734ae4,legible.condos,available,58.99,58.99,high,low,7,namesilo,,,22/08/2026 22:59
 e5911991-97f3-4b6e-9b95-ecbcc0a175c6,tripping.condos,available,58.99,58.99,medium,low,8,namesilo,,,23/08/2026 05:23
+e78b4b23-e539-44d7-a6f9-34f61ab1542a,brendan.condos,available,48.37,48.37,medium,low,7,dynadot,,,28/09/2026 04:01
 2a4695d1-005c-4ef7-badf-6899d1f1fcb2,sullen.condos,available,58.99,58.99,medium,low,6,namesilo,,,20/08/2026 15:06
 c67915b9-dbd9-43cc-80fb-99dc618b9340,victories.condos,available,61.98,72.98,medium,low,9,namecheap,,,18/09/2026 09:23
 075f646e-000c-4478-bdd5-5d0ff2400196,kevin.condos,available,61.98,72.98,high,medium,5,namecheap,,,25/09/2026 18:28
@@ -24,6 +25,7 @@ d37b4a4c-cd74-42c5-9891-f426ae66d88c,arbalest.condos,available,58.99,58.99,mediu
 42e563f8-111d-4c4b-be0e-44e09ef1581b,cannoneer.condos,available,58.99,58.99,medium,low,9,namesilo,,,20/09/2026 11:44
 f464c197-53ee-4652-bc9b-cd2f5d36ea10,aspirer.condos,available,58.99,58.99,medium,low,7,namesilo,,,07/08/2026 05:12
 67aef659-01e6-494b-96e8-6855f7196a51,jones.condos,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 00:23
+cf2f4926-8741-43fc-be77-96d5c9f6b744,harlow.condos,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 05:57
 2135ebbc-922f-46c8-a1bb-ae316cbab428,trouper.condos,available,58.99,58.99,medium,low,7,namesilo,,,22/09/2026 06:54
 a6f4851b-b491-4a25-98f5-df2b35a93799,provisions.condos,available,58.99,58.99,high,low,10,namesilo,,,08/09/2026 08:15
 5a7bfa5c-20a7-40ec-8fd5-09b400898ac3,argiope.condos,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 04:25
@@ -58,6 +60,7 @@ fd977cc5-828b-4e1f-bd32-a77a76938d04,blades.condos,available,71.99,,high,low,6,n
 63cb16be-45de-4146-85b5-f36711eb735c,collars.condos,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 09:10
 fc528182-7bb5-4142-8230-4f6141d9ba4e,dorm.condos,available,58.99,58.99,high,low,4,namesilo,,,24/09/2026 23:35
 92c2ed89-8717-4370-9bc1-0e9d142420a2,solitary.condos,available,58.99,58.99,high,low,8,namesilo,,,24/08/2026 08:55
+e4a138a3-5023-4f8c-96c8-b36dc110b645,adopt.condos,available,46.78,46.78,high,low,5,spaceship,,,28/09/2026 03:18
 92d26c4d-3fa0-4bee-8efc-ad11800b1ee8,probable.condos,available,58.99,58.99,high,low,8,namesilo,,,27/09/2026 06:59
 0c6d4577-a415-4f35-8530-e512dcb7cfea,munition.condos,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 07:44
 0ecf97ae-17e0-453a-ac98-6da094cc052f,ban.condos,available,58.99,58.99,high,low,3,namesilo,,,18/08/2026 11:10
@@ -146,12 +149,13 @@ e1fd524b-8250-4ab3-9e00-8e79da83a8e1,allowed.condos,available,58.99,58.99,high,l
 35ac442d-b9e1-4b40-b2aa-c619d6ae9b9d,chairperson.condos,available,58.99,58.99,high,low,11,namesilo,,,
 040dcea2-99f5-451c-b742-844d1709335a,priority.condos,available,58.99,58.99,high,low,8,namesilo,,,19/09/2026 12:40
 3893f6b0-9748-4b51-931b-71be33dd8b04,barmaid.condos,available,58.99,58.99,high,low,7,namesilo,,,22/09/2026 06:36
-26a7c15e-7dea-4d26-8f43-4854d0512b3d,operation.condos,available,61.98,72.98,high,low,9,namecheap,,,25/09/2026 04:49
+26a7c15e-7dea-4d26-8f43-4854d0512b3d,operation.condos,available,46.86,46.86,high,low,9,porkbun,,,28/09/2026 02:52
 8aad617d-bbd8-4201-b27e-9d89b72b467a,bigfoot.condos,available,58.99,58.99,high,low,7,namesilo,,,23/09/2026 15:06
 1ff06e5d-f6de-43db-b975-3f1f7dadcb43,mayor.condos,available,61.98,72.98,high,low,5,namecheap,,,24/09/2026 15:10
 c564da49-0970-4de2-9f5f-c39c374fdfd6,courses.condos,premium,128.7,128.7,high,low,7,namecheap,,,
 7c60949e-a0da-4f74-ae8e-b4a368413cc2,breathe.condos,available,58.99,58.99,high,low,7,namesilo,,,
 b13203af-278d-494f-bb27-f223e3054194,annelida.condos,available,58.99,58.99,medium,low,8,namesilo,,,19/09/2026 10:23
+93721ec0-1916-4ebe-b452-3a7ba71c7e89,vendor.condos,available,61.98,72.98,high,low,6,namecheap,,,28/09/2026 02:42
 0d428ead-4213-4f10-9fb7-caf7e1ea014b,specially.condos,available,71.99,,medium,low,9,name.com,,,
 20c3688b-af3e-428e-99f7-604f56d9cae0,verbally.condos,available,61.98,72.98,medium,low,8,namecheap,,,16/09/2026 10:50
 63a455ac-1af6-460b-86fa-0e47e1578d0d,throwaway.condos,available,58.99,58.99,medium,low,9,namesilo,,,11/08/2026 05:13
@@ -172,6 +176,7 @@ efc7ef38-2c7b-4468-92b9-e5f75b0e90e2,anatolia.condos,available,58.99,58.99,high,
 b98ffe82-14ec-4b93-b0bd-b361e988dea2,guadalupe.condos,available,58.99,58.99,medium,low,9,namesilo,,,25/09/2026 15:36
 5e11901b-80c1-44a8-9bc9-ea1f9432a46e,feather.condos,available,58.99,58.99,high,low,7,namesilo,,,
 440aa77b-6eef-4c9f-aa02-e50d1f91a408,piggish.condos,available,58.99,58.99,medium,low,7,namesilo,,,21/08/2026 10:18
+6cdd954d-567e-4ad1-b10f-492d887647b0,membership.condos,available,61.98,72.98,high,low,10,namecheap,,,28/09/2026 06:23
 4fe58282-e2e0-449c-945e-962735b8c1b2,calorific.condos,available,58.99,58.99,medium,low,9,namesilo,,,11/08/2026 15:12
 6059e83b-23bc-4cac-ab8d-fca5006834aa,cruelty.condos,available,61.98,72.98,medium,low,7,namecheap,,,24/09/2026 19:49
 dd36b579-6fe4-4c0d-a78f-ae6649bda7c1,xxviii.condos,available,58.99,58.99,medium,low,6,namesilo,,,
@@ -203,6 +208,7 @@ e5ac5510-5543-447f-95a3-dad362098626,adonic.condos,available,58.99,58.99,medium,
 75932805-3521-4913-aab2-52905bcbd484,climb.condos,available,58.99,58.99,high,low,5,namesilo,,,16/09/2026 22:41
 15ba9c51-70c4-4257-980a-21709f8b2b4a,woolf.condos,available,61.98,72.98,medium,low,5,namecheap,,,17/09/2026 07:19
 3d3898f4-0438-41dd-b82c-7201e8a0cb2c,tokens.condos,available,58.99,58.99,high,medium,6,namesilo,,,19/09/2026 22:34
+31479fb4-9675-4851-a253-330c8eb2d459,parole.condos,available,46.78,46.78,high,low,6,spaceship,,,28/09/2026 05:28
 8f224326-04ae-40d8-950e-2381f988909d,ferries.condos,available,58.99,58.99,medium,low,7,namesilo,,,20/09/2026 07:40
 7879052c-0e1c-418d-b556-ceee4455dee2,certificate.condos,available,58.99,58.99,high,low,11,namesilo,,,
 0ebe5125-802f-41da-8612-6abe19d97aad,eroded.condos,available,58.99,58.99,medium,low,6,namesilo,,,17/08/2026 12:24
@@ -232,6 +238,7 @@ d0697d06-cc8c-43f8-8377-101755499e8d,chuckle.condos,available,58.99,58.99,high,l
 25633b4e-87da-441d-8f2e-7f97f6ba21ee,oversexed.condos,available,58.99,58.99,medium,low,9,namesilo,,,21/08/2026 09:17
 7f3e5aa5-91a6-438d-a63a-3ff8c524e51e,ameer.condos,available,61.98,72.98,medium,low,5,namecheap,,,18/09/2026 18:04
 2c3ebab2-39d3-4f29-85c4-e38fed3e7311,vivaldi.condos,available,58.99,58.99,medium,low,7,namesilo,,,19/09/2026 15:40
+21d72dc1-de02-49f2-8db1-af7643a4dee8,lands.condos,available,46.78,46.78,high,low,5,spaceship,,,28/09/2026 04:27
 2074749f-4a80-4612-9765-ad406d44a83e,fugal.condos,available,58.99,58.99,medium,low,5,namesilo,,,18/08/2026 17:38
 41940b52-80df-42f5-859e-a6b245e9b5e5,gum.condos,available,58.99,58.99,high,low,3,namesilo,,,24/09/2026 14:25
 7332f1bc-2698-4502-8ee9-62e78f7215c7,bicker.condos,available,58.99,58.99,medium,low,6,namesilo,,,23/09/2026 13:12
@@ -242,6 +249,7 @@ e44edd5b-141d-4019-938f-3295793f366d,keyed.condos,available,58.99,58.99,medium,l
 1f483a16-2876-4dad-8b3e-a5e11277eece,impairment.condos,available,71.99,75.99,medium,low,10,name.com,,,13/08/2026 19:25
 686aced9-2a89-4404-8bf3-d721da0e3994,realise.condos,available,48.37,48.37,high,low,7,dynadot,,,27/09/2026 16:29
 dd7b62fc-ec68-4835-81a4-eee031edcbb6,disappointment.condos,available,58.99,58.99,medium,low,14,namesilo,,,
+6c7d2b66-16aa-49e6-a134-34ff41960821,sharma.condos,available,46.86,46.86,high,low,6,porkbun,,,28/09/2026 03:27
 077fa8c7-a901-4dd9-a0f7-5c1edf203cdf,achilles.condos,available,58.99,58.99,high,low,8,namesilo,,,17/09/2026 00:40
 00c46b6c-5485-456b-8e99-94ae9d4bbf02,resonant.condos,available,58.99,58.99,high,low,8,namesilo,,,17/08/2026 15:19
 ce2da1e9-e8cb-49bd-9ac4-542eb5cacc9c,bosky.condos,available,61.98,72.98,medium,low,5,namecheap,,,10/08/2026 20:17
@@ -268,6 +276,7 @@ b7d99169-7f32-440b-a38b-0bf12f64de44,depleted.condos,available,58.99,58.99,mediu
 bf4cd821-83e3-4b54-9fb4-607da64953dd,operated.condos,available,58.99,58.99,high,low,8,namesilo,,,
 d1fa69ab-94cb-4d93-a59e-6134ff392b7c,carriage.condos,available,58.99,58.99,high,low,8,namesilo,,,
 72e7351f-4d6a-45b6-a0aa-adaef8322140,liqueur.condos,available,58.99,58.99,high,low,7,namesilo,,,13/08/2026 01:02
+28fc3755-b565-4819-8ee7-af7ed5c45c6c,wolves.condos,available,46.78,46.78,medium,low,6,spaceship,,,28/09/2026 04:21
 e50f2f39-9c39-484c-8762-5f8f711801cb,advisors.condos,available,58.99,58.99,medium,low,8,namesilo,,,24/09/2026 14:22
 6aae8045-31bc-40fb-93e8-c849671ac665,anzac.condos,available,71.99,75.99,medium,low,5,name.com,,,19/09/2026 16:00
 c46ba9ed-d5ed-47d8-895f-6f508d744301,lite.condos,available,58.99,58.99,high,low,4,namesilo,,,11/08/2026 15:09
@@ -277,7 +286,7 @@ d0c2642f-d4bf-40ed-b3a7-62d18f7e4598,containers.condos,available,58.99,58.99,med
 af24ced8-f026-4a5c-83eb-974f941f9926,mutely.condos,available,58.99,58.99,medium,low,6,namesilo,,,15/09/2026 15:47
 d19462ed-174f-4c3b-afce-8cc9c01b8878,antoine.condos,available,58.99,58.99,high,low,7,namesilo,,,25/09/2026 14:52
 ee6249c9-4a78-4cba-9c76-5bfc6e2bb069,obey.condos,available,58.99,58.99,high,low,4,namesilo,,,
-2097915c-9b4b-4790-ae19-f44e4fa2405f,engine.condos,available,58.99,58.99,high,low,6,namesilo,,,25/09/2026 03:39
+2097915c-9b4b-4790-ae19-f44e4fa2405f,engine.condos,available,58.99,58.99,high,low,6,namesilo,,,28/09/2026 03:55
 9ce51374-c11a-40a1-be26-2726a4b90ba0,actuated.condos,available,61.98,72.98,medium,low,8,namecheap,,,
 8940d160-0d2e-49c3-b953-d3edc3d4d11b,catcher.condos,available,61.98,72.98,high,low,7,namecheap,,,21/09/2026 16:05
 5a95f9a4-bb16-4103-8571-4269c26b1d76,important.condos,available,58.99,58.99,high,low,9,namesilo,,,22/09/2026 13:54
@@ -416,7 +425,7 @@ d4e19ece-75a1-4186-ae04-cdae2fa9041c,growing.condos,available,58.99,58.99,high,l
 98784e12-3e3b-456e-9f22-04ba73bc84fb,cannily.condos,available,58.99,58.99,medium,low,7,namesilo,,,14/09/2026 05:10
 38f88b6c-1d20-4a8f-95cb-f150a1e1eb98,relevant.condos,available,58.99,58.99,high,low,8,namesilo,,,09/09/2026 13:33
 c98de272-c5b3-4573-b495-d0c24ef0ee56,heptad.condos,available,58.99,58.99,medium,low,6,namesilo,,,
-5e0ac07e-ba33-4d3d-835c-3980e14ce3dc,cracking.condos,available,58.99,58.99,high,low,8,namesilo,,,08/08/2026 12:25
+5e0ac07e-ba33-4d3d-835c-3980e14ce3dc,cracking.condos,available,58.99,58.99,high,low,8,namesilo,,,28/09/2026 05:52
 4c040cd6-000e-4fff-a6ff-63eaaa90c9f2,dies.condos,available,58.99,58.99,medium,low,4,namesilo,,,25/09/2026 16:12
 2975ea20-d9e9-499f-bd12-3d78695760b3,eruptive.condos,available,58.99,58.99,medium,low,8,namesilo,,,17/08/2026 13:12
 63a2258f-521f-4e29-915a-685fd647f672,stagnant.condos,available,58.99,58.99,medium,low,8,namesilo,,,25/08/2026 06:25
@@ -424,6 +433,7 @@ cce5874d-ac94-4a83-b4ff-cfb91c8dff07,baldy.condos,available,58.99,58.99,medium,l
 6c77b7d6-7d24-4e6e-b8db-9aa9428c77c1,abhorrence.condos,available,58.99,58.99,medium,low,10,namesilo,,,16/09/2026 15:25
 2c162e98-54fa-4482-b542-cecf970d2427,relocated.condos,available,58.99,58.99,high,low,9,namesilo,,,09/09/2026 13:39
 391e281a-e261-45e0-9899-5d943125d58b,coastal.condos,premium,500,500,high,low,7,name.com,,,12/08/2026 14:10
+e43009f1-3446-45bc-809c-8736562276d6,transaction.condos,available,46.78,46.78,high,low,11,spaceship,,,28/09/2026 02:31
 1a3a2ada-c26a-4004-930d-180ac5527604,macho.condos,available,58.99,58.99,high,low,5,namesilo,,,11/08/2026 11:31
 9c8d0445-68c5-4aa4-8009-4c056884ff76,tick.condos,available,58.99,58.99,high,low,4,namesilo,,,24/09/2026 13:55
 1801f86e-6523-4428-830c-661511c30e21,rudy.condos,available,58.99,58.99,high,low,4,namesilo,,,27/09/2026 07:02
@@ -466,6 +476,7 @@ b784ac14-94fd-4c66-8983-5f9a6854cef6,editorial.condos,available,58.99,58.99,high
 59193cfd-72f4-4fe4-8a74-b91db290b189,acrogen.condos,available,61.98,72.98,medium,low,7,namecheap,,,17/09/2026 03:44
 398e7a80-f734-4564-a053-05838f7dd47a,balcony.condos,available,61.98,72.98,high,low,7,namecheap,,,21/09/2026 21:28
 38d9e6c7-bdc7-4d31-a9b3-e5647caa6f25,theoretic.condos,available,58.99,58.99,medium,low,9,namesilo,,,11/09/2026 12:54
+95bc7a7d-1eda-4108-9f98-3b4dd2189c73,dryden.condos,available,48.37,48.37,medium,low,6,dynadot,,,28/09/2026 05:32
 c1cd4065-e703-4bfd-b021-3e8593d09314,thump.condos,available,58.99,58.99,high,low,5,namesilo,,,11/09/2026 15:06
 5e6dd9b1-d3fa-43d3-980b-0dd7c29df2e0,recruited.condos,available,58.99,58.99,medium,low,9,namesilo,,,18/09/2026 00:53
 86136504-a4be-4123-bf4b-0affa4e92fc6,unequaled.condos,available,58.99,58.99,high,low,9,namesilo,,,12/09/2026 09:09
@@ -593,6 +604,7 @@ d7fd797e-22db-4222-aa42-7d8d4954951f,silently.condos,available,58.99,58.99,mediu
 1461e800-2a81-42fd-b90d-3df3b26f6a08,whispered.condos,available,58.99,58.99,high,low,9,namesilo,,,13/09/2026 11:35
 086449ff-d896-4a12-b543-464e6526c1e8,tike.condos,available,58.99,58.99,medium,low,4,namesilo,,,25/08/2026 00:12
 5cdb4049-e539-445f-b833-94212025f9d5,agility.condos,available,71.99,75.99,high,low,7,name.com,,,17/09/2026 17:49
+81319a22-162c-43bd-a6e9-3869cee3571c,documentary.condos,available,46.78,46.78,high,low,11,spaceship,,,28/09/2026 04:30
 7158271b-647f-42b6-94b1-4f799c7a43f4,edna.condos,available,71.99,75.99,high,low,4,name.com,,,27/09/2026 01:34
 f4a6eeba-41ec-4cb5-a205-36ec9c4967de,recycled.condos,available,58.99,58.99,high,low,8,namesilo,,,
 876990be-29ba-45a2-a854-1885014e6029,triumphant.condos,available,61.98,72.98,high,low,10,namecheap,,,17/08/2026 19:56
@@ -609,7 +621,7 @@ b2344eb6-d7bf-4b70-942c-6b96492fd91c,atenolol.condos,available,61.98,72.98,mediu
 9285c222-60f8-459f-aecf-a6bfb34306f4,wikimedia.condos,available,,,high,high,9,,,,
 0e11e85a-ce3e-4223-9580-26d40623adcb,crashed.condos,available,46.78,46.78,low,low,7,spaceship,,,27/09/2026 11:29
 9adcc6c0-e112-4344-93c3-97de33f0fc8f,whilst.condos,available,58.99,58.99,medium,low,6,namesilo,,,
-8cf0e9df-76af-4508-9714-f77fb1345347,schedule.condos,available,58.99,58.99,high,low,8,namesilo,,,17/09/2026 17:04
+8cf0e9df-76af-4508-9714-f77fb1345347,schedule.condos,available,61.98,72.98,high,low,8,namecheap,,,28/09/2026 04:02
 a97f6b49-6143-4715-8c91-0ca137861172,patrol.condos,available,58.99,58.99,high,low,6,namesilo,,,25/09/2026 23:57
 3d881e43-f118-4a51-a67b-955f07401a9d,moose.condos,available,61.98,72.98,high,low,5,namecheap,,,18/09/2026 03:57
 5dbf78fa-5936-4d06-beec-6cd200904916,circular.condos,available,58.99,58.99,high,low,8,namesilo,,,23/09/2026 09:44
@@ -663,6 +675,8 @@ eaafe9bd-58e0-44f4-a048-60ccf76364e5,dicker.condos,available,58.99,58.99,high,lo
 5a1ea86b-05db-43a7-82e6-18c9074b72e2,haughty.condos,available,58.99,58.99,medium,low,7,namesilo,,,21/08/2026 01:24
 bee3212a-267b-44bb-a0c4-8ffd46e1c3da,nullity.condos,available,58.99,58.99,medium,low,7,namesilo,,,13/09/2026 06:33
 e7c21b24-5704-4be0-b3be-04cd7c8a1a95,het.condos,available,58.99,58.99,medium,low,3,namesilo,,,21/08/2026 02:20
+3bbe8f62-c148-45d7-a315-2a0a2f85494a,lifting.condos,available,58.99,58.99,high,low,7,namesilo,,,28/09/2026 04:32
+f07af194-ea47-4f50-b248-8d2ce3259d2a,urine.condos,available,61.98,72.98,high,low,5,namecheap,,,28/09/2026 02:54
 02d13062-ced1-432c-b6ae-b7f3bd4cbfaa,ado.condos,available,58.99,58.99,high,low,3,namesilo,,,17/09/2026 09:17
 6bbe3130-8518-4d30-bf64-3229495aee07,dogsit.condos,available,58.99,58.99,high,low,6,namesilo,,,
 d19fc923-4df2-4695-bb49-6b89380e1fb8,mon.condos,available,58.99,58.99,high,low,3,namesilo,,,
@@ -712,6 +726,7 @@ fcc30d1c-f5a4-460b-9265-320b83dac575,milne.condos,available,58.99,58.99,medium,l
 65834edf-2d82-4b21-a5fc-ed7e8793e52e,eloquent.condos,available,58.99,58.99,high,low,8,namesilo,,,16/08/2026 06:14
 ec4a1af2-f6cb-4a2c-9c73-afb66ff9e14a,sweet.condos,available,58.99,58.99,high,low,5,namesilo,,,25/09/2026 22:43
 00426dca-879f-461d-9221-fedda15dda2d,slip.condos,available,58.99,58.99,high,low,4,namesilo,,,27/09/2026 22:41
+becf8c4d-6a53-40d2-8558-647cc8a8cebe,shepherd.condos,available,46.78,46.78,high,low,8,spaceship,,,28/09/2026 03:05
 2cc10bf5-adb4-4384-8728-5c9747a79c76,fable.condos,available,58.99,58.99,high,low,5,namesilo,,,18/09/2026 10:35
 dea27dc6-0614-4fbb-b084-8b176ae0d39b,cadge.condos,available,58.99,58.99,medium,low,5,namesilo,,,11/08/2026 09:28
 9b90dbd6-73b9-4407-b449-c503f3e5c6ec,emily.condos,available,58.99,58.99,high,medium,5,namesilo,,,25/09/2026 14:07
@@ -723,6 +738,7 @@ d6be2ea6-a638-4327-ba80-2a62b9d4aa26,continents.condos,available,58.99,58.99,med
 757aca60-2628-4048-86d6-c0e138de0176,aegina.condos,available,61.98,72.98,medium,low,6,namecheap,,,17/09/2026 12:15
 8b819aab-d0a0-47ff-8332-9d357fb73430,supporting.condos,available,45.2,45.2,high,low,10,cloudflare,,,28/09/2026 02:02
 1a32592c-fd57-47eb-816c-50b2f478d65c,utopian.condos,available,58.99,58.99,high,low,7,namesilo,,,13/09/2026 00:12
+ed3db54a-39e2-4e84-bb2b-1fe75649d67e,canyon.condos,available,58.99,58.99,high,low,6,namesilo,,,28/09/2026 05:22
 624809ec-0b44-42fa-8db9-fd57140f6238,vindicator.condos,available,61.98,72.98,medium,low,10,namecheap,,,19/09/2026 18:48
 9c88be69-66b5-48c4-9b59-d488385f9aa4,cheeky.condos,available,58.99,58.99,high,low,6,namesilo,,,11/08/2026 02:26
 a8f9ac8c-c737-400d-82ac-cfabae45613a,tocsin.condos,available,58.99,58.99,medium,low,6,namesilo,,,18/09/2026 01:57
@@ -735,6 +751,7 @@ e669a08b-0871-4956-b0b4-db73b9f6879d,anhidrosis.condos,available,61.98,72.98,med
 8d3b4435-377c-4577-8f19-420abaf19443,miri.condos,available,58.99,58.99,high,low,4,namesilo,,,16/09/2026 16:35
 5df243c5-2434-45a6-842c-a0c281d664e5,geodetic.condos,available,58.99,58.99,medium,low,8,namesilo,,,18/08/2026 22:21
 d76e43d6-6571-49ac-903d-9b448b157422,johnstone.condos,available,46.86,46.86,high,low,9,porkbun,,,27/09/2026 23:26
+bdab5c9e-5905-4cf1-bebc-4dd40580ebfd,pedro.condos,available,45.2,45.2,high,low,5,cloudflare,,,28/09/2026 03:54
 e1cf6ed6-a75c-4ef3-8a36-f0561dbe4171,marathon.condos,available,58.99,58.99,high,low,8,namesilo,,,22/09/2026 15:29
 f1c32762-9512-4da4-a932-411bb1b04de0,woozy.condos,available,58.99,58.99,medium,low,5,namesilo,,,14/08/2026 14:06
 5ed875bc-70f0-403b-a4cb-e278d9bf16c2,arquebus.condos,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 08:40
@@ -746,6 +763,7 @@ a736f76d-0927-4c14-ae06-6d882c3def10,elect.condos,available,58.99,58.99,high,low
 8d448fdb-3aa6-49fe-ac38-71f6373d86ab,anus.condos,available,61.98,72.98,medium,low,4,namecheap,,,19/09/2026 15:56
 8bd1b627-3386-4166-8998-2306af974316,grower.condos,available,61.98,72.98,high,low,6,namecheap,,,17/09/2026 19:21
 e4f80f44-4140-4b00-a9fd-b706b2d23399,swinburne.condos,available,58.99,58.99,medium,low,9,namesilo,,,18/09/2026 07:03
+02076ad3-8d35-4c8f-826e-6f96ed54b961,zach.condos,available,58.99,58.99,high,medium,4,namesilo,,,28/09/2026 04:11
 ce92b40d-62c9-4485-93ec-3ab998bf9aa9,saintly.condos,available,58.99,58.99,high,low,7,namesilo,,,
 2956227d-c6cc-4bf2-b1e1-d76fa3069bf6,tubeless.condos,available,61.98,72.98,medium,low,8,namecheap,,,11/09/2026 20:58
 fdeebcd0-f712-4965-b040-568e76d429a7,corporation.condos,available,46.78,46.78,high,low,11,spaceship,,,27/09/2026 16:41
@@ -754,6 +772,7 @@ fcb2d2c8-d822-4f91-a79a-a0ac0ae744f3,bullheaded.condos,available,58.99,58.99,med
 0890cf1f-1e01-4c10-a244-97a1b18f5247,microbial.condos,available,58.99,58.99,medium,low,9,namesilo,,,08/09/2026 09:41
 d55f33d4-0ca1-4712-832f-b69a08abaf33,cleaners.condos,available,58.99,58.99,high,low,8,namesilo,,,24/09/2026 15:26
 f9816577-4b26-49f9-ae76-51951bb343a8,bracing.condos,available,58.99,58.99,high,low,7,namesilo,,,11/08/2026 00:30
+014ee67e-2967-48e1-ac48-99d3d846d7b0,wires.condos,available,46.78,46.78,medium,low,5,spaceship,,,28/09/2026 04:36
 03db17fe-b010-455e-b3ff-6b5475c195df,taciturn.condos,available,58.99,58.99,medium,low,8,namesilo,,,11/09/2026 06:58
 028500b9-2d95-4cd1-94bf-b61a27e92303,thought.condos,available,58.99,58.99,high,low,7,namesilo,,,
 c563c84e-31a2-4b80-94bc-585d789e24e5,trichrome.condos,available,61.98,72.98,medium,low,9,namecheap,,,11/09/2026 19:24
@@ -788,9 +807,9 @@ e12d26ba-164b-4234-ab36-e99a636dd1de,operable.condos,available,58.99,58.99,mediu
 2614c5ee-8ff7-4441-874c-f0a6b30e8188,fracas.condos,available,58.99,58.99,medium,low,6,namesilo,,,17/09/2026 14:44
 a74508a8-10bc-4271-af91-326e6aecb1e1,weakly.condos,available,71.99,75.99,medium,low,6,name.com,,,13/08/2026 20:38
 581b4477-0f57-4d6e-b572-4312e124f18b,metal.condos,available,61.98,72.98,high,low,5,namecheap,,,25/09/2026 19:55
-17fb706f-d79c-4d73-8b31-f7012c8d3f2c,financial.condos,premium,128.7,128.7,high,low,9,namecheap,,,23/09/2026 07:40
+17fb706f-d79c-4d73-8b31-f7012c8d3f2c,financial.condos,premium,128.7,128.7,high,low,9,namecheap,,,28/09/2026 05:01
 a4d5ff93-8cf6-4c8f-b331-027a64d4e9c3,badness.condos,available,58.99,58.99,medium,low,7,namesilo,,,08/08/2026 07:23
-f1a71e23-1648-4edd-99c9-ac9276cfff94,letter.condos,available,58.99,58.99,high,low,6,namesilo,,,24/09/2026 02:40
+f1a71e23-1648-4edd-99c9-ac9276cfff94,letter.condos,available,61.98,72.98,high,low,6,namecheap,,,28/09/2026 06:50
 b0cc6423-6caf-4ffd-9ce8-a827d3f720ad,climatic.condos,available,58.99,58.99,high,low,8,namesilo,,,12/08/2026 10:57
 1e6e5e2a-ef1b-4fd5-9aba-8819075588be,nevada.condos,premium,118.8,118.8,high,low,6,namesilo,,,
 b5d2ed2d-1d69-4032-b2e8-73ff5552c1e2,amanita.condos,available,61.98,72.98,medium,low,7,namecheap,,,18/09/2026 15:43
@@ -825,6 +844,7 @@ f1a0a999-2d2f-4b26-87e0-5d0be8190798,partitioned.condos,available,58.99,58.99,me
 5f8bb25e-8fab-4346-8ae2-713e7377f110,jamaican.condos,premium,242,242,high,low,8,namesilo,,,22/08/2026 12:11
 67c8f000-ef0b-407a-863f-680fd0ae4f90,couple.condos,available,58.99,58.99,high,low,6,namesilo,,,
 2b9903c3-9bd7-45ff-9ac0-bcf3ea1a2721,meekly.condos,available,58.99,58.99,medium,low,6,namesilo,,,15/09/2026 01:24
+e94b49d9-2f70-4f94-8023-7eea8ec694f2,crawling.condos,available,61.98,72.98,high,low,8,namecheap,,,28/09/2026 05:30
 33d0646b-a49d-49bf-b15c-29069450b869,puddings.condos,available,61.98,72.98,medium,low,8,namecheap,,,19/09/2026 22:22
 8f7d8f09-b9dc-4ade-b54f-c0ad3a28c286,sue.condos,available,58.99,58.99,high,low,3,namesilo,,,
 5f66e3e1-2fe2-44cc-94e3-5bc4ec663d61,fiscal.condos,available,58.99,58.99,high,low,6,namesilo,,,19/09/2026 10:22
@@ -848,9 +868,11 @@ f15882f2-c7b3-4e11-9088-28827d31c3cd,heroic.condos,available,58.99,58.99,high,lo
 37cab7ab-57cf-45b3-9631-786ca2663bc4,sylvia.condos,available,48.37,48.37,high,low,6,dynadot,,,27/09/2026 19:08
 67336783-23a5-4547-b5b6-f7e4e3527009,showering.condos,available,58.99,58.99,high,low,9,namesilo,,,
 4c4bf603-91a8-4a4c-9b31-1fd7e51dd0fe,niner.condos,available,58.99,58.99,medium,low,5,namesilo,,,
+ad79ce90-e2b7-4744-98ac-b1f2d569be11,ursula.condos,available,58.99,58.99,medium,low,6,namesilo,,,28/09/2026 03:44
 557391cf-0b3f-452a-af81-07a45f7be193,welcoming.condos,available,58.99,58.99,high,low,9,namesilo,,,13/09/2026 10:14
 4ff327f2-8f07-46ee-8fc6-11ce7482f51f,startling.condos,available,61.98,72.98,medium,low,9,namecheap,,,10/09/2026 19:02
 396d3640-bdc6-4d1e-bb0e-5cb09c8e6f2d,tire.condos,available,58.99,58.99,high,low,4,namesilo,,,25/09/2026 11:34
+1598a96c-d7ba-4839-9be8-6b5481b76996,experts.condos,available,45.2,45.2,high,low,7,cloudflare,,,28/09/2026 04:32
 6c44cc7b-9574-4d35-9d2d-9393f9868fc2,rarified.condos,available,58.99,58.99,medium,low,8,namesilo,,,17/08/2026 15:46
 61a54106-b044-433e-b1fa-cfeffc608f24,forgot.condos,available,58.99,58.99,medium,low,6,namesilo,,,27/09/2026 21:47
 fa741bae-60ab-4f19-93dc-f234839b780f,absorber.condos,available,61.98,72.98,high,low,8,namecheap,,,16/09/2026 18:17
@@ -977,25 +999,3 @@ fdfbcbab-cc12-40da-96fd-a38013d53c25,tenderly.condos,available,58.99,58.99,high,
 26af9140-3c96-4aa2-9021-52374a1bfb1b,luggage.condos,available,58.99,58.99,high,low,7,namesilo,,,
 b12efcaa-8c62-4dc2-8e2d-b693fc0253f8,alike.condos,available,61.98,72.98,high,low,5,namecheap,,,21/09/2026 23:59
 f158ed2f-ea8c-4483-95fb-9718f41a7722,prolife.condos,available,61.98,72.98,high,low,8,namecheap,,,27/09/2026 06:51
-fdc3914b-bbe2-43cf-9a8d-c845d1693a2b,rack.condos,available,58.99,58.99,high,low,4,namesilo,,,27/09/2026 15:29
-f7b47389-e41c-4fbe-8323-461f49865db1,built.condos,available,58.99,58.99,high,low,5,namesilo,,,23/09/2026 10:20
-e2c4685e-d5f4-4f4d-b9d7-83ab46bcaa70,sherman.condos,available,61.98,72.98,high,low,7,namecheap,,,25/09/2026 09:27
-05906e54-35a7-4221-a950-cc4e6d34b5ca,downsizing.condos,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 23:41
-62cb0113-515b-439d-b9c1-480e9fd48c09,retinal.condos,available,58.99,58.99,high,low,7,namesilo,,,09/09/2026 15:37
-293785f3-f7a7-4755-b74b-9281e1e069a1,fatso.condos,available,58.99,58.99,medium,low,5,namesilo,,,17/08/2026 23:54
-60f93309-d987-4e4f-a973-6227bece95b6,betaine.condos,available,58.99,58.99,medium,low,7,namesilo,,,23/09/2026 11:03
-3e2e2162-fdd9-4fc8-9fed-9df2569aa0ac,moist.condos,available,71.99,75.99,high,low,5,name.com,,,13/08/2026 16:43
-0eaf2bd9-8b37-49f7-96c8-62ca637cf6a1,earn.condos,available,58.99,58.99,high,low,4,namesilo,,,
-48876767-79fe-47a9-ba97-358fb60a7d3a,puke.condos,available,58.99,58.99,medium,low,4,namesilo,,,11/08/2026 09:18
-fb996a54-c9ff-4264-af54-bc58d6b8cdd6,dearie.condos,available,71.99,75.99,high,low,6,name.com,,,13/08/2026 18:19
-1578af1d-d9c7-4e8e-85db-362be8e88624,nurse.condos,available,58.99,58.99,high,low,5,namesilo,,,
-c79bdc0c-c22a-4b3a-b749-6ac97218603c,foolish.condos,available,61.98,72.98,high,low,7,namecheap,,,24/09/2026 11:44
-0219a6c1-c1cd-4fee-81eb-0cdbb3bf8486,pancreatic.condos,available,58.99,58.99,medium,low,10,namesilo,,,05/09/2026 00:36
-d5a2c399-e9b4-41fa-863e-ffb3697209bd,permanent.condos,available,58.99,58.99,high,low,9,namesilo,,,22/08/2026 20:24
-6cc74d4a-0ca2-4890-b019-c624f081a0e8,enlivened.condos,available,58.99,58.99,medium,low,9,namesilo,,,17/08/2026 09:37
-77cb2cce-4182-44b2-8f49-9bafa502dacc,shortest.condos,available,58.99,58.99,medium,low,8,namesilo,,,17/09/2026 14:24
-a5809ba9-f251-479e-b82d-3f0c675e575c,esthetical.condos,available,61.98,72.98,high,low,10,namecheap,,,21/09/2026 21:22
-3f61a871-54ba-468c-91d5-1db418969029,ambled.condos,available,58.99,58.99,medium,low,6,namesilo,,,20/09/2026 05:58
-03998519-0dc8-447b-a464-6f103a3069bb,zack.condos,available,46.86,46.86,high,low,4,porkbun,,,27/09/2026 18:11
-a831ae26-832d-46dd-acb5-d3f1b4032ddd,celsius.condos,available,58.99,58.99,high,low,7,namesilo,,,19/09/2026 04:00
-b12270d7-0afb-4824-aaa9-a5532ce709c5,because.condos,available,58.99,58.99,high,low,7,namesilo,,,
